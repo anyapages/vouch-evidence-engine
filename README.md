@@ -1,5 +1,11 @@
 # Vouch Evidence Engine
 
+> **This repository is Vouch's public evidence layer.** It reproduces the
+> published waiting-list calculations the Vouch demo shows. It does **not**
+> contain the Vouch application, its model prompts, its referral-reading or
+> disagreement logic, its evaluation corpus, any clinical decision-making code,
+> or any patient data.
+
 Open infrastructure for reproducible healthcare waiting-list evidence, for the
 island of Ireland.
 
