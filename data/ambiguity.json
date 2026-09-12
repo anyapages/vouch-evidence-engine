@@ -1,0 +1,4329 @@
+{
+ "meta": {
+  "source": "NTPF outpatient waiting list, hospital x specialty",
+  "archiveDate": "2026-07-30",
+  "extracted": "2026-08-22",
+  "minListSize": 40,
+  "wideGapThreshold": 20.0,
+  "pairsConsidered": 18,
+  "pairListIsOurJudgement": true,
+  "note": "Gap is the difference in the share of each list that has already waited over twelve months. It is not a predicted wait and no arithmetic converts it to weeks."
+ },
+ "summary": {
+  "pairsFound": 269,
+  "medianGap": 8.9,
+  "meanGap": 12.1,
+  "maxGap": 73.5,
+  "wideGaps": 53,
+  "ageGroups": [
+   "Adult",
+   "Child"
+  ]
+ },
+ "pairs": [
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Croom Orthopaedic Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 86.7,
+    "total": 301
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 13.2,
+    "total": 7024
+   },
+   "gap": 73.5
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 76.8,
+    "total": 9032
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 3.7,
+    "total": 107
+   },
+   "gap": 73.1
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "Tipperary University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 100.0,
+    "total": 182
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 27.6,
+    "total": 504
+   },
+   "gap": 72.4
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "South Infirmary Victoria University Hospital",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 1.7,
+    "total": 234
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 55.6,
+    "total": 126
+   },
+   "gap": 53.9
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 52.4,
+    "total": 736
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 0.0,
+    "total": 265
+   },
+   "gap": 52.4
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 51.3,
+    "total": 1057
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 0.1,
+    "total": 784
+   },
+   "gap": 51.2
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Naas General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 68.8,
+    "total": 565
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 24.4,
+    "total": 3082
+   },
+   "gap": 44.4
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 5.6,
+    "total": 2157
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 49.4,
+    "total": 3999
+   },
+   "gap": 43.8
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 43.6,
+    "total": 782
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 0.2,
+    "total": 834
+   },
+   "gap": 43.4
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 42.4,
+    "total": 769
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 2.4,
+    "total": 84
+   },
+   "gap": 40.0
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.8,
+    "total": 57
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 40.9,
+    "total": 88
+   },
+   "gap": 39.1
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 37.9,
+    "total": 4564
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 835
+   },
+   "gap": 37.9
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 11.8,
+    "total": 2939
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 49.4,
+    "total": 3999
+   },
+   "gap": 37.6
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 0.0,
+    "total": 45
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 35.7,
+    "total": 378
+   },
+   "gap": 35.7
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 35.7,
+    "total": 2889
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 0.5,
+    "total": 607
+   },
+   "gap": 35.2
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 34.0,
+    "total": 1672
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 0.0,
+    "total": 50
+   },
+   "gap": 34.0
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 43.6,
+    "total": 782
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 11.0,
+    "total": 1606
+   },
+   "gap": 32.6
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "South Infirmary Victoria University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 12.5,
+    "total": 5701
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 44.3,
+    "total": 3270
+   },
+   "gap": 31.8
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 0.0,
+    "total": 665
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 30.4,
+    "total": 2776
+   },
+   "gap": 30.4
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 33.6,
+    "total": 708
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 3.8,
+    "total": 453
+   },
+   "gap": 29.8
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 13.0,
+    "total": 4650
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 42.5,
+    "total": 2492
+   },
+   "gap": 29.5
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 30.6,
+    "total": 447
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.1,
+    "total": 183
+   },
+   "gap": 29.5
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 27.7,
+    "total": 3157
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.0,
+    "total": 87
+   },
+   "gap": 27.7
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 1.9,
+    "total": 1512
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 29.3,
+    "total": 6755
+   },
+   "gap": 27.4
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 41.4,
+    "total": 6182
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 14.3,
+    "total": 4983
+   },
+   "gap": 27.1
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 38.0,
+    "total": 2871
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 11.8,
+    "total": 2939
+   },
+   "gap": 26.2
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 42.9,
+    "total": 569
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 17.2,
+    "total": 644
+   },
+   "gap": 25.7
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 4.8,
+    "total": 2466
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 30.4,
+    "total": 2776
+   },
+   "gap": 25.6
+  },
+  {
+   "presentation": "functional neurological symptoms",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 32.7,
+    "total": 3918
+   },
+   "b": {
+    "specialty": "Psychiatry",
+    "pctOver12m": 7.4,
+    "total": 175
+   },
+   "gap": 25.3
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 0.0,
+    "total": 1355
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 24.6,
+    "total": 4064
+   },
+   "gap": 24.6
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 24.3,
+    "total": 309
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 0.0,
+    "total": 119
+   },
+   "gap": 24.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 24.5,
+    "total": 359
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.3,
+    "total": 365
+   },
+   "gap": 24.2
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 27.6,
+    "total": 1154
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 3.6,
+    "total": 1653
+   },
+   "gap": 24.0
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Naas General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.3,
+    "total": 719
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 24.2,
+    "total": 3165
+   },
+   "gap": 23.9
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 30.7,
+    "total": 5500
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 6.9,
+    "total": 597
+   },
+   "gap": 23.8
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 24.5,
+    "total": 359
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.8,
+    "total": 826
+   },
+   "gap": 23.7
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 47.3,
+    "total": 2212
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 24.1,
+    "total": 8874
+   },
+   "gap": 23.2
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 39.7,
+    "total": 3468
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 16.9,
+    "total": 3161
+   },
+   "gap": 22.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.4,
+    "total": 1321
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 23.9,
+    "total": 740
+   },
+   "gap": 22.5
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 15.2,
+    "total": 2819
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 37.6,
+    "total": 3430
+   },
+   "gap": 22.4
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 1.7,
+    "total": 292
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 23.9,
+    "total": 740
+   },
+   "gap": 22.2
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.1,
+    "total": 183
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 22.6,
+    "total": 509
+   },
+   "gap": 21.5
+  },
+  {
+   "presentation": "jaundice or upper abdominal",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 9.6,
+    "total": 701
+   },
+   "b": {
+    "specialty": "Hepato-Biliary Surgery",
+    "pctOver12m": 30.8,
+    "total": 169
+   },
+   "gap": 21.2
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 0.0,
+    "total": 1332
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 21.1,
+    "total": 4354
+   },
+   "gap": 21.1
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 20.9,
+    "total": 4480
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 598
+   },
+   "gap": 20.9
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 7.8,
+    "total": 2849
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 28.7,
+    "total": 1342
+   },
+   "gap": 20.9
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 30.4,
+    "total": 2776
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 9.7,
+    "total": 5904
+   },
+   "gap": 20.7
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "St. Luke's General Hospital Kilkenny",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 20.2,
+    "total": 1497
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 40.7,
+    "total": 1210
+   },
+   "gap": 20.5
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Midland Regional Hospital Mullingar",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 3.8,
+    "total": 978
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 24.3,
+    "total": 3767
+   },
+   "gap": 20.5
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.5,
+    "total": 187
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 20.9,
+    "total": 2185
+   },
+   "gap": 20.4
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "South Infirmary Victoria University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 29.7,
+    "total": 7819
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 9.4,
+    "total": 489
+   },
+   "gap": 20.3
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 25.7,
+    "total": 1216
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 5.4,
+    "total": 3850
+   },
+   "gap": 20.3
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 0.0,
+    "total": 280
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 20.1,
+    "total": 700
+   },
+   "gap": 20.1
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 6.1,
+    "total": 1224
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 26.0,
+    "total": 1540
+   },
+   "gap": 19.9
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 116
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 19.8,
+    "total": 546
+   },
+   "gap": 19.8
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 1.3,
+    "total": 310
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 21.0,
+    "total": 3491
+   },
+   "gap": 19.7
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 62
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 19.6,
+    "total": 861
+   },
+   "gap": 19.6
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 27.6,
+    "total": 1154
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 8.1,
+    "total": 1837
+   },
+   "gap": 19.5
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 18.9,
+    "total": 419
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 0.0,
+    "total": 45
+   },
+   "gap": 18.9
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 40.2,
+    "total": 204
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 21.4,
+    "total": 1092
+   },
+   "gap": 18.8
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Portiuncula University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.6,
+    "total": 527
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 19.1,
+    "total": 535
+   },
+   "gap": 18.5
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 4.6,
+    "total": 2252
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 22.8,
+    "total": 9463
+   },
+   "gap": 18.2
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 27.7,
+    "total": 3157
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 9.8,
+    "total": 2625
+   },
+   "gap": 17.9
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 17.9,
+    "total": 4340
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 0.0,
+    "total": 96
+   },
+   "gap": 17.9
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 34.7,
+    "total": 2945
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 17.0,
+    "total": 1364
+   },
+   "gap": 17.7
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 24.1,
+    "total": 8874
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 6.4,
+    "total": 853
+   },
+   "gap": 17.7
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 35.3,
+    "total": 754
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 17.9,
+    "total": 229
+   },
+   "gap": 17.4
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 17.2,
+    "total": 9844
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 1360
+   },
+   "gap": 17.2
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 1.7,
+    "total": 1215
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 18.5,
+    "total": 3346
+   },
+   "gap": 16.8
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 0.0,
+    "total": 1332
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 16.5,
+    "total": 2327
+   },
+   "gap": 16.5
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Our Lady's Hospital Navan",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 16.6,
+    "total": 1775
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.2,
+    "total": 420
+   },
+   "gap": 16.4
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 21.7,
+    "total": 2004
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 37.6,
+    "total": 3430
+   },
+   "gap": 15.9
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.0,
+    "total": 1354
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 15.5,
+    "total": 1805
+   },
+   "gap": 15.5
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 5.4,
+    "total": 3850
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 20.9,
+    "total": 2185
+   },
+   "gap": 15.5
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 18.4,
+    "total": 1361
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 3.0,
+    "total": 572
+   },
+   "gap": 15.4
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 39.2,
+    "total": 2279
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 23.8,
+    "total": 5361
+   },
+   "gap": 15.4
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 27.5,
+    "total": 629
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.2,
+    "total": 1218
+   },
+   "gap": 15.3
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 22.7,
+    "total": 1025
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 7.6,
+    "total": 1274
+   },
+   "gap": 15.1
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 0.4,
+    "total": 2524
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 15.5,
+    "total": 1123
+   },
+   "gap": 15.1
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 18.0,
+    "total": 4112
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 3.4,
+    "total": 2222
+   },
+   "gap": 14.6
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 15.8,
+    "total": 2519
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 30.4,
+    "total": 2776
+   },
+   "gap": 14.6
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 22.8,
+    "total": 9463
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 37.2,
+    "total": 2675
+   },
+   "gap": 14.4
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.0,
+    "total": 41
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 14.3,
+    "total": 540
+   },
+   "gap": 14.3
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 8.5,
+    "total": 1405
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 22.8,
+    "total": 1103
+   },
+   "gap": 14.3
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 17.2,
+    "total": 644
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 3.0,
+    "total": 572
+   },
+   "gap": 14.2
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 14.2,
+    "total": 402
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 0.0,
+    "total": 127
+   },
+   "gap": 14.2
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 9.3,
+    "total": 4649
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 23.3,
+    "total": 1722
+   },
+   "gap": 14.0
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 5.4,
+    "total": 3269
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 19.4,
+    "total": 479
+   },
+   "gap": 14.0
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 35.7,
+    "total": 2889
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 21.7,
+    "total": 2004
+   },
+   "gap": 14.0
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 9.4,
+    "total": 2075
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 22.8,
+    "total": 1103
+   },
+   "gap": 13.4
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 11.2,
+    "total": 1657
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 24.6,
+    "total": 4064
+   },
+   "gap": 13.4
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 4.3,
+    "total": 749
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 17.7,
+    "total": 972
+   },
+   "gap": 13.4
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "National Orthopaedic Hospital Cappagh",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 13.3,
+    "total": 4529
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 66
+   },
+   "gap": 13.3
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Croom Orthopaedic Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 13.2,
+    "total": 7024
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 58
+   },
+   "gap": 13.2
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 20.4,
+    "total": 3810
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 7.3,
+    "total": 2711
+   },
+   "gap": 13.1
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 1.5,
+    "total": 1157
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 14.6,
+    "total": 1038
+   },
+   "gap": 13.1
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Our Lady's Hospital Navan",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 12.8,
+    "total": 3172
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 681
+   },
+   "gap": 12.8
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 32.7,
+    "total": 3918
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 19.9,
+    "total": 12640
+   },
+   "gap": 12.8
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 41.4,
+    "total": 6182
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 28.7,
+    "total": 1265
+   },
+   "gap": 12.7
+  },
+  {
+   "presentation": "jaundice or upper abdominal",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 12.5,
+    "total": 1613
+   },
+   "b": {
+    "specialty": "Hepato-Biliary Surgery",
+    "pctOver12m": 0.0,
+    "total": 61
+   },
+   "gap": 12.5
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 13.3,
+    "total": 1881
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.8,
+    "total": 1043
+   },
+   "gap": 12.5
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.1,
+    "total": 866
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 12.4,
+    "total": 776
+   },
+   "gap": 12.3
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 144
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 12.3,
+    "total": 260
+   },
+   "gap": 12.3
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "St. Luke's General Hospital Kilkenny",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 20.2,
+    "total": 1497
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 7.9,
+    "total": 178
+   },
+   "gap": 12.3
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 20.1,
+    "total": 700
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 8.0,
+    "total": 870
+   },
+   "gap": 12.1
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 22.7,
+    "total": 1025
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 10.6,
+    "total": 1330
+   },
+   "gap": 12.1
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.8,
+    "total": 1355
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 17.7,
+    "total": 972
+   },
+   "gap": 11.9
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 7.5,
+    "total": 3189
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 19.1,
+    "total": 1696
+   },
+   "gap": 11.6
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 21.3,
+    "total": 9025
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 32.8,
+    "total": 2033
+   },
+   "gap": 11.5
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 19.1,
+    "total": 1696
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 7.6,
+    "total": 171
+   },
+   "gap": 11.5
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 5.8,
+    "total": 2583
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 17.2,
+    "total": 3712
+   },
+   "gap": 11.4
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.0,
+    "total": 703
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 11.4,
+    "total": 606
+   },
+   "gap": 11.4
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 29.5,
+    "total": 193
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 18.1,
+    "total": 83
+   },
+   "gap": 11.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Ennis Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.9,
+    "total": 157
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 13.2,
+    "total": 667
+   },
+   "gap": 11.3
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.1,
+    "total": 1762
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 11.4,
+    "total": 606
+   },
+   "gap": 11.3
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 14.3,
+    "total": 4983
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 3.4,
+    "total": 2222
+   },
+   "gap": 10.9
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 10.9,
+    "total": 1947
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 0.0,
+    "total": 57
+   },
+   "gap": 10.9
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 15.5,
+    "total": 1123
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 4.6,
+    "total": 2112
+   },
+   "gap": 10.9
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 13.3,
+    "total": 1881
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.5,
+    "total": 4074
+   },
+   "gap": 10.8
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 10.7,
+    "total": 1932
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 21.3,
+    "total": 9025
+   },
+   "gap": 10.6
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 12.2,
+    "total": 953
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 1.6,
+    "total": 191
+   },
+   "gap": 10.6
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 14.0,
+    "total": 2632
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 24.6,
+    "total": 4064
+   },
+   "gap": 10.6
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 12.0,
+    "total": 75
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 1.5,
+    "total": 1231
+   },
+   "gap": 10.5
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 1.8,
+    "total": 836
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.2,
+    "total": 1218
+   },
+   "gap": 10.4
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 10.4,
+    "total": 288
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 975
+   },
+   "gap": 10.4
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 32.7,
+    "total": 3918
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 22.4,
+    "total": 2874
+   },
+   "gap": 10.3
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Tipperary University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 10.7,
+    "total": 513
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.6,
+    "total": 1263
+   },
+   "gap": 10.1
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 10.1,
+    "total": 2885
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 544
+   },
+   "gap": 10.1
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Tipperary University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 17.6,
+    "total": 1241
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 27.6,
+    "total": 504
+   },
+   "gap": 10.0
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 7.8,
+    "total": 2849
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 17.5,
+    "total": 1552
+   },
+   "gap": 9.7
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 12.5,
+    "total": 1613
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 3.1,
+    "total": 1801
+   },
+   "gap": 9.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 5.3,
+    "total": 932
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 14.6,
+    "total": 1038
+   },
+   "gap": 9.3
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 19.4,
+    "total": 479
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 28.7,
+    "total": 1342
+   },
+   "gap": 9.3
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 8.5,
+    "total": 1550
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 17.7,
+    "total": 972
+   },
+   "gap": 9.2
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 11.4,
+    "total": 70
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 2.5,
+    "total": 3406
+   },
+   "gap": 8.9
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 23.8,
+    "total": 5361
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 32.4,
+    "total": 1808
+   },
+   "gap": 8.6
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 26.0,
+    "total": 1540
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 17.5,
+    "total": 1552
+   },
+   "gap": 8.5
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 4.3,
+    "total": 1428
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.7,
+    "total": 2852
+   },
+   "gap": 8.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.2,
+    "total": 1218
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 3.8,
+    "total": 453
+   },
+   "gap": 8.4
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "South Infirmary Victoria University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 21.4,
+    "total": 5545
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 29.7,
+    "total": 7819
+   },
+   "gap": 8.3
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.7,
+    "total": 2852
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 21.0,
+    "total": 3491
+   },
+   "gap": 8.3
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Nenagh Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 0.0,
+    "total": 50
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 8.3,
+    "total": 169
+   },
+   "gap": 8.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Tipperary University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 10.7,
+    "total": 513
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 2.4,
+    "total": 1256
+   },
+   "gap": 8.3
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Wexford General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 23.1,
+    "total": 1356
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 14.8,
+    "total": 1557
+   },
+   "gap": 8.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 9.6,
+    "total": 701
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 1.4,
+    "total": 1158
+   },
+   "gap": 8.2
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 3.7,
+    "total": 696
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 11.8,
+    "total": 964
+   },
+   "gap": 8.1
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 20.9,
+    "total": 43
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 13.0,
+    "total": 131
+   },
+   "gap": 7.9
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 1.0,
+    "total": 2047
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 8.7,
+    "total": 1571
+   },
+   "gap": 7.7
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.0,
+    "total": 775
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 8.7,
+    "total": 1571
+   },
+   "gap": 7.7
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 1.9,
+    "total": 1512
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 9.5,
+    "total": 5381
+   },
+   "gap": 7.6
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 11.8,
+    "total": 964
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 19.4,
+    "total": 1397
+   },
+   "gap": 7.6
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 9.5,
+    "total": 5381
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 17.0,
+    "total": 1364
+   },
+   "gap": 7.5
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 24.6,
+    "total": 4064
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 17.2,
+    "total": 3712
+   },
+   "gap": 7.4
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 15.8,
+    "total": 2519
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 23.2,
+    "total": 4823
+   },
+   "gap": 7.4
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 13.6,
+    "total": 3093
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 20.9,
+    "total": 4480
+   },
+   "gap": 7.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 7.4,
+    "total": 1591
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 14.7,
+    "total": 1431
+   },
+   "gap": 7.3
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.0,
+    "total": 49
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.9,
+    "total": 101
+   },
+   "gap": 6.9
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 1360
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 6.9,
+    "total": 159
+   },
+   "gap": 6.9
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 16.5,
+    "total": 2327
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 9.8,
+    "total": 2625
+   },
+   "gap": 6.7
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 6.1,
+    "total": 1224
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 0.0,
+    "total": 170
+   },
+   "gap": 6.1
+  },
+  {
+   "presentation": "functional neurological symptoms",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 6.1,
+    "total": 1224
+   },
+   "b": {
+    "specialty": "Psychiatry",
+    "pctOver12m": 0.0,
+    "total": 204
+   },
+   "gap": 6.1
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 7.1,
+    "total": 480
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 1.0,
+    "total": 1284
+   },
+   "gap": 6.1
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 18.4,
+    "total": 1361
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 12.3,
+    "total": 260
+   },
+   "gap": 6.1
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Naas General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 24.4,
+    "total": 3082
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 18.5,
+    "total": 627
+   },
+   "gap": 5.9
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Portiuncula University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.1,
+    "total": 727
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.0,
+    "total": 315
+   },
+   "gap": 5.9
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Our Lady's Hospital Navan",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.9,
+    "total": 831
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 439
+   },
+   "gap": 5.9
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Our Lady's Hospital Navan",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.9,
+    "total": 831
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.1,
+    "total": 722
+   },
+   "gap": 5.8
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 7.1,
+    "total": 480
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.3,
+    "total": 1073
+   },
+   "gap": 5.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Portiuncula University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.2,
+    "total": 470
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.0,
+    "total": 315
+   },
+   "gap": 5.8
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 10.1,
+    "total": 2051
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 4.3,
+    "total": 2000
+   },
+   "gap": 5.8
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Tipperary University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 17.6,
+    "total": 1241
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 11.9,
+    "total": 452
+   },
+   "gap": 5.7
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 11.2,
+    "total": 1657
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 5.5,
+    "total": 2787
+   },
+   "gap": 5.7
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "Naas General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 18.5,
+    "total": 627
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 24.2,
+    "total": 3165
+   },
+   "gap": 5.7
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 5.5,
+    "total": 2348
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 544
+   },
+   "gap": 5.5
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Midland Regional Hospital Portlaoise",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 116
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 5.3,
+    "total": 932
+   },
+   "gap": 5.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.2,
+    "total": 1258
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 365
+   },
+   "gap": 5.2
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Our Lady of Lourdes Hospital Drogheda",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 6.1,
+    "total": 807
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.0,
+    "total": 775
+   },
+   "gap": 5.1
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Naas General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.3,
+    "total": 719
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 5.3,
+    "total": 171
+   },
+   "gap": 5.0
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.3,
+    "total": 1073
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.3,
+    "total": 1130
+   },
+   "gap": 5.0
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 7.8,
+    "total": 2653
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 3.0,
+    "total": 2293
+   },
+   "gap": 4.8
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "St. Luke's General Hospital Kilkenny",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 6.7,
+    "total": 687
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.1,
+    "total": 986
+   },
+   "gap": 4.6
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 0.2,
+    "total": 834
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 4.8,
+    "total": 681
+   },
+   "gap": 4.6
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.5,
+    "total": 4074
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 7.1,
+    "total": 1525
+   },
+   "gap": 4.6
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.8,
+    "total": 1355
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 1.2,
+    "total": 1009
+   },
+   "gap": 4.6
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.1,
+    "total": 1476
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 10.3,
+    "total": 253
+   },
+   "gap": 4.2
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 19.7,
+    "total": 1655
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 15.5,
+    "total": 1123
+   },
+   "gap": 4.2
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 8.5,
+    "total": 917
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 12.7,
+    "total": 2852
+   },
+   "gap": 4.2
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.4,
+    "total": 1027
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 10.6,
+    "total": 978
+   },
+   "gap": 4.2
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 0.3,
+    "total": 309
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 4.3,
+    "total": 2000
+   },
+   "gap": 4.0
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 4.3,
+    "total": 2000
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.4,
+    "total": 1520
+   },
+   "gap": 3.9
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "St. Luke's General Hospital Kilkenny",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 6.7,
+    "total": 687
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 10.6,
+    "total": 945
+   },
+   "gap": 3.9
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 13.5,
+    "total": 623
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 9.7,
+    "total": 5904
+   },
+   "gap": 3.8
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Louth County Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 3.8,
+    "total": 364
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.0,
+    "total": 130
+   },
+   "gap": 3.8
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 6.3,
+    "total": 1076
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.5,
+    "total": 4074
+   },
+   "gap": 3.8
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.7,
+    "total": 143
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 4.1,
+    "total": 753
+   },
+   "gap": 3.4
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 5.8,
+    "total": 1336
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.6,
+    "total": 2396
+   },
+   "gap": 3.2
+  },
+  {
+   "presentation": "breast symptom",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Breast Surgery",
+    "pctOver12m": 0.4,
+    "total": 846
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 3.6,
+    "total": 1653
+   },
+   "gap": 3.2
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 7.4,
+    "total": 1591
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 4.3,
+    "total": 2000
+   },
+   "gap": 3.1
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.0,
+    "total": 62
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 3.1,
+    "total": 255
+   },
+   "gap": 3.1
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 12.5,
+    "total": 1613
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 15.5,
+    "total": 1123
+   },
+   "gap": 3.0
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 7.3,
+    "total": 3402
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 10.3,
+    "total": 253
+   },
+   "gap": 3.0
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 14.9,
+    "total": 5387
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 17.8,
+    "total": 6152
+   },
+   "gap": 2.9
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Beaumont Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 35.0,
+    "total": 3089
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 37.9,
+    "total": 4564
+   },
+   "gap": 2.9
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 4.7,
+    "total": 846
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 7.5,
+    "total": 3189
+   },
+   "gap": 2.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 3.6,
+    "total": 1653
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.9,
+    "total": 1287
+   },
+   "gap": 2.7
+  },
+  {
+   "presentation": "visual disturbance with headache",
+   "hospital": "Galway University Hospitals",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 38.0,
+    "total": 2871
+   },
+   "b": {
+    "specialty": "Ophthalmology",
+    "pctOver12m": 35.4,
+    "total": 4568
+   },
+   "gap": 2.6
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 5.0,
+    "total": 1195
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 7.6,
+    "total": 1274
+   },
+   "gap": 2.6
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.0,
+    "total": 44
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 2.4,
+    "total": 205
+   },
+   "gap": 2.4
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 9.9,
+    "total": 857
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 12.2,
+    "total": 541
+   },
+   "gap": 2.3
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Mercy University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 9.6,
+    "total": 701
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 11.8,
+    "total": 964
+   },
+   "gap": 2.2
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 4.8,
+    "total": 950
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.6,
+    "total": 2396
+   },
+   "gap": 2.2
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 2.2,
+    "total": 1052
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 267
+   },
+   "gap": 2.2
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 4.3,
+    "total": 1428
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 6.5,
+    "total": 1914
+   },
+   "gap": 2.2
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Roscommon University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.6,
+    "total": 328
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 2.7,
+    "total": 600
+   },
+   "gap": 2.1
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 4.3,
+    "total": 1071
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.3,
+    "total": 1130
+   },
+   "gap": 2.0
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 0.0,
+    "total": 1825
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 1.9,
+    "total": 54
+   },
+   "gap": 1.9
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 1.9,
+    "total": 54
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 445
+   },
+   "gap": 1.9
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.6,
+    "total": 1279
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 4.8,
+    "total": 681
+   },
+   "gap": 1.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.8,
+    "total": 826
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 2.6,
+    "total": 229
+   },
+   "gap": 1.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Nenagh Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 8.3,
+    "total": 169
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 6.5,
+    "total": 676
+   },
+   "gap": 1.8
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 4.8,
+    "total": 950
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 3.0,
+    "total": 1929
+   },
+   "gap": 1.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "St. John's Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 7.7,
+    "total": 496
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 9.4,
+    "total": 234
+   },
+   "gap": 1.7
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.4,
+    "total": 1027
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 8.0,
+    "total": 870
+   },
+   "gap": 1.6
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 1.5,
+    "total": 1231
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 655
+   },
+   "gap": 1.5
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "St. Michael's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 1.8,
+    "total": 836
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.3,
+    "total": 352
+   },
+   "gap": 1.5
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 256
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.4,
+    "total": 1321
+   },
+   "gap": 1.4
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 1.3,
+    "total": 472
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.0,
+    "total": 958
+   },
+   "gap": 1.3
+  },
+  {
+   "presentation": "leg pain or claudication",
+   "hospital": "Roscommon University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Vascular Surgery",
+    "pctOver12m": 1.9,
+    "total": 161
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.6,
+    "total": 328
+   },
+   "gap": 1.3
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 1.3,
+    "total": 532
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.0,
+    "total": 149
+   },
+   "gap": 1.3
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 1.3,
+    "total": 472
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.1,
+    "total": 1335
+   },
+   "gap": 1.2
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "St. Columcille's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 62
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 1.1,
+    "total": 183
+   },
+   "gap": 1.1
+  },
+  {
+   "presentation": "skin lesion",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Dermatology",
+    "pctOver12m": 10.6,
+    "total": 2355
+   },
+   "b": {
+    "specialty": "Plastic Surgery",
+    "pctOver12m": 9.5,
+    "total": 1803
+   },
+   "gap": 1.1
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Sligo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.6,
+    "total": 1279
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 7.6,
+    "total": 171
+   },
+   "gap": 1.0
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 1.4,
+    "total": 347
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.5,
+    "total": 585
+   },
+   "gap": 0.9
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Mater Misericordiae University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 22.4,
+    "total": 2874
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 23.3,
+    "total": 1722
+   },
+   "gap": 0.9
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.9,
+    "total": 216
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 955
+   },
+   "gap": 0.9
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.9,
+    "total": 1855
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.1,
+    "total": 1453
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Mallow General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 1.3,
+    "total": 532
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.5,
+    "total": 585
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.9,
+    "total": 216
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.1,
+    "total": 1762
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "dizziness or vertigo",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Neurology",
+    "pctOver12m": 10.9,
+    "total": 1947
+   },
+   "b": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 10.1,
+    "total": 2885
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "University Hospital Waterford",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 17.7,
+    "total": 972
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 18.5,
+    "total": 3346
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Midland Regional Hospital Tullamore",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 6.1,
+    "total": 1476
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 6.9,
+    "total": 159
+   },
+   "gap": 0.8
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Roscommon University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 91
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.6,
+    "total": 328
+   },
+   "gap": 0.6
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.7,
+    "total": 143
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.2,
+    "total": 604
+   },
+   "gap": 0.5
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.4,
+    "total": 1460
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.9,
+    "total": 1287
+   },
+   "gap": 0.5
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 6.6,
+    "total": 181
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 7.1,
+    "total": 1525
+   },
+   "gap": 0.5
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.0,
+    "total": 2786
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.4,
+    "total": 1520
+   },
+   "gap": 0.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Louth County Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.4,
+    "total": 528
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.0,
+    "total": 130
+   },
+   "gap": 0.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.2,
+    "total": 604
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.6,
+    "total": 162
+   },
+   "gap": 0.4
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Tallaght University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 2.6,
+    "total": 2396
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 3.0,
+    "total": 2293
+   },
+   "gap": 0.4
+  },
+  {
+   "presentation": "pelvic or lower urinary symptoms",
+   "hospital": "Mayo University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gynaecology",
+    "pctOver12m": 0.3,
+    "total": 951
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.6,
+    "total": 162
+   },
+   "gap": 0.3
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "St. Vincent's University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 5.2,
+    "total": 1258
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 5.4,
+    "total": 3850
+   },
+   "gap": 0.2
+  },
+  {
+   "presentation": "chronic joint pain",
+   "hospital": "University Hospital Kerry",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 0.2,
+    "total": 1800
+   },
+   "b": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.0,
+    "total": 144
+   },
+   "gap": 0.2
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.9,
+    "total": 1855
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.7,
+    "total": 268
+   },
+   "gap": 0.2
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Portiuncula University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.6,
+    "total": 527
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.8,
+    "total": 128
+   },
+   "gap": 0.2
+  },
+  {
+   "presentation": "chronic pain, no surgical target",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Pain Relief",
+    "pctOver12m": 5.5,
+    "total": 1320
+   },
+   "b": {
+    "specialty": "Orthopaedics",
+    "pctOver12m": 5.4,
+    "total": 3269
+   },
+   "gap": 0.1
+  },
+  {
+   "presentation": "multi-system inflammatory",
+   "hospital": "University Hospital Limerick",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Rheumatology",
+    "pctOver12m": 0.1,
+    "total": 859
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.0,
+    "total": 87
+   },
+   "gap": 0.1
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.0,
+    "total": 913
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 655
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "chest pain or breathlessness",
+   "hospital": "Cork University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.0,
+    "total": 1729
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.0,
+    "total": 445
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "abdominal pain",
+   "hospital": "Bantry General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 223
+   },
+   "b": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.0,
+    "total": 393
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "persistent cough",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Otolaryngology (ENT)",
+    "pctOver12m": 0.1,
+    "total": 784
+   },
+   "b": {
+    "specialty": "Respiratory Medicine",
+    "pctOver12m": 0.1,
+    "total": 1453
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "St. James's Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 0.0,
+    "total": 464
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 0.0,
+    "total": 178
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "glycaemic and endocrine overlap",
+   "hospital": "St. Luke's General Hospital Kilkenny",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Endocrinology",
+    "pctOver12m": 0.0,
+    "total": 54
+   },
+   "b": {
+    "specialty": "Diabetes Mellitus",
+    "pctOver12m": 0.0,
+    "total": 79
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "groin or abdominal wall",
+   "hospital": "Letterkenny University Hospital",
+   "ageGroup": "Child",
+   "a": {
+    "specialty": "General Surgery",
+    "pctOver12m": 0.0,
+    "total": 68
+   },
+   "b": {
+    "specialty": "Urology",
+    "pctOver12m": 0.0,
+    "total": 65
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Bantry General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 223
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 365
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Connolly Hospital Blanchardstown",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 256
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 1190
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "dyspepsia needing scope",
+   "hospital": "Roscommon University Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Gastro-Enterology",
+    "pctOver12m": 0.0,
+    "total": 91
+   },
+   "b": {
+    "specialty": "GI Endoscopy",
+    "pctOver12m": 0.0,
+    "total": 633
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Bantry General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.0,
+    "total": 146
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.0,
+    "total": 81
+   },
+   "gap": 0.0
+  },
+  {
+   "presentation": "palpitations or general decline",
+   "hospital": "Cavan General Hospital",
+   "ageGroup": "Adult",
+   "a": {
+    "specialty": "Cardiology",
+    "pctOver12m": 0.0,
+    "total": 913
+   },
+   "b": {
+    "specialty": "General Medicine",
+    "pctOver12m": 0.0,
+    "total": 256
+   },
+   "gap": 0.0
+  }
+ ]
+}

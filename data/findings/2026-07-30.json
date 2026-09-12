@@ -1,0 +1,13 @@
+{
+  "archiveDate": "2026-07-30",
+  "note": "Figures quoted in the September 2026 submission, frozen to the archive they came from. tests/data.test.ts checks them only while data/ntpf.json serves this archive; a later archive gets its own file when its findings are quoted anywhere.",
+  "rows": 808,
+  "hospitals": 46,
+  "specialties": 59,
+  "galway": {
+    "cardiology": { "pctOver12m": 5.6, "total": 2157 },
+    "respiratory": { "pctOver12m": 49.4, "total": 3999 },
+    "gapPoints": 43.8
+  },
+  "ambiguity": { "pairsFound": 269, "medianGap": 8.9, "wideGaps": 53, "maxGap": 73.5 }
+}

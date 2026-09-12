@@ -1,0 +1,55 @@
+name: verify
+
+# The point of this repository is that its figures can be checked. So they are,
+# on every push: the invariants hold, the derived finding re-derives byte for
+# byte, and the publication-date logic is pinned. A figure that stops being true
+# stops the build.
+on: [push, pull_request]
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: the served dataset holds its invariants
+        run: python3 scripts/check_data.py
+
+      - name: the ambiguity finding must re-derive from the committed data
+        run: |
+          python3 scripts/build_ambiguity.py
+          git diff --exit-code data/ambiguity.json
+
+      - name: the publication date is derived, not read off the archive label
+        run: python3 -m unittest discover -s scripts/tests -v
+
+      - name: every Northern Ireland row's bands sum to its published total
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          d = json.load(open("data/ni.json"))
+          bands, over = d["meta"]["bands"], d["meta"]["over52wBands"]
+          bad = 0
+          for r in d["rows"]:
+              if sum(r["bands"][b] for b in bands) != r["total"]: bad += 1
+              if sum(r["bands"][b] for b in over) != r["over52w"]: bad += 1
+          print(f"{len(d['rows'])} rows checked, {bad} failures")
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: the two files are never merged, and say which grain they are
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          ntpf = json.load(open("data/ntpf.json"))
+          ni = json.load(open("data/ni.json"))
+          hospitals = {r["hospital"] for r in ntpf["rows"]}
+          trusts = {r["trust"] for r in ni["rows"]}
+          assert ni["meta"]["level"] == "HSC Trust", "the NI file must state its grain"
+          overlap = hospitals & trusts
+          assert not overlap, f"a name appears in both files: {overlap}"
+          print(f"{len(hospitals)} hospitals, {len(trusts)} Trust-level rows, no name in both")
+          PY
