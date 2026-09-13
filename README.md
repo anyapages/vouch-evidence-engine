@@ -68,6 +68,26 @@ versus return distinction, no acceptance criteria and no travel information, so
 nothing derived from it can account for any of those. `data/README.md` sets out
 each of these with the consequence that follows from it.
 
+## The reading is measured elsewhere, and the results are open too
+
+This repository is the evidence half: the published figures and the derivation
+that produces them. The other half, how a referral letter is read and what the
+routing rule costs, is measured separately and published at
+**<https://vouch.aqta.ai/evaluation>**.
+
+That page is worth reading alongside this one, because it is the same discipline
+applied to the models rather than to the data: 153 invented letters, five
+samples from every reader on every letter, held-out split only, and both a
+lenient and a strict score so the scoring rule cannot do the arguing. Three
+readers were tested and two serve: `gpt-4.1-mini`, `gemini-3.6-flash`, and
+NVIDIA Nemotron 3 Super served by NVIDIA NIM as an independent third opinion,
+brought in to check whether the disagreements were real or an artefact of one
+model family. The third has never answered a clinical request and is not in the
+serving path.
+
+No corpus, prompts or model code are in this repository, and none are planned
+here. The figures are what this repository is for.
+
 ## The boundary
 
 This repository is the evidence layer: the published sources, the derivation,
