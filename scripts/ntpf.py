@@ -52,16 +52,32 @@ def on_archive_date(date):
     ]
 
 
-def query(select, where, window=30000, restart=None):
+# The report's fact table holds three waiting lists at once: outpatient, inpatient/day
+# case and GI endoscopy. Nothing on OpenDataMaster says which a row belongs to; the list
+# type lives on the related TypeMain table. Without this filter every hospital x
+# specialty row silently combined all three lists (found 13 Sep 2026). Filtered to
+# Outpatient, the adult total matches NTPF's published outpatient CSV.
+OUTPATIENT = "Outpatient"
+
+
+def query(select, where, window=30000, restart=None, list_type=OUTPATIENT):
     """One SemanticQueryDataShapeCommand.
 
     `window` raises the row cap. The report's own default is 100, which silently
     truncates; 30000 comfortably covers a full archive. If `decode` returns a
     restart token, the result WAS truncated and you need to page.
     """
-    q = {"Version": 2, "From": [{"Name": "o", "Entity": "OpenDataMaster", "Type": 0}], "Select": select}
-    if where:
-        q["Where"] = where
+    frm = [{"Name": "o", "Entity": "OpenDataMaster", "Type": 0}]
+    conditions = list(where or [])
+    if list_type:
+        frm.append({"Name": "m", "Entity": "TypeMain", "Type": 0})
+        conditions.append({"Condition": {"In": {
+            "Expressions": [{"Column": {"Expression": {"SourceRef": {"Source": "m"}}, "Property": "Type Name"}}],
+            "Values": [[{"Literal": {"Value": f"'{list_type}'"}}]],
+        }}})
+    q = {"Version": 2, "From": frm, "Select": select}
+    if conditions:
+        q["Where"] = conditions
     primary = {"Window": {"Count": window}}
     if restart:
         primary["Window"]["RestartTokens"] = restart

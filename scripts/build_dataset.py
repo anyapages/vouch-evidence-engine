@@ -17,8 +17,9 @@ import ntpf
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATE = sys.argv[1] if len(sys.argv) > 1 else "2026-07-30"
 
-# Category and WLType are rollup rows in the same table. Keeping them would double
-# count every hospital, so both must be null for a leaf row.
+# Category and WLType are sub-list rows (suspensions, planned procedures) in the same
+# table; keeping them would double count, so both must be null for a leaf row. The
+# list type itself (outpatient only) is filtered inside ntpf.query.
 select = [
     ntpf.col("HospitalName"), ntpf.col("SpecialtyName"), ntpf.col("Publication Time Band"),
     ntpf.col("WLType"), ntpf.col("Category"), ntpf.col("Age Group"), ntpf.agg("Amount"),

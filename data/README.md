@@ -9,7 +9,7 @@ query endpoint the report's own browser session uses, so these are the published
 numbers rather than an estimate of them. Nothing is authenticated and nothing is
 scraped from a login.
 
-`ntpf.json` holds 808 rows: 46 hospitals, 59 specialties, split Adult and Child.
+`ntpf.json` holds 734 rows: 44 hospitals, 58 specialties, split Adult and Child, outpatient lists only.
 
 ## The band trap. Read this before doing arithmetic.
 

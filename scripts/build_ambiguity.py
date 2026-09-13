@@ -35,7 +35,8 @@ PAIRS = [
     ("jaundice or upper abdominal", "Gastro-Enterology", "Hepato-Biliary Surgery"),
     ("leg pain or claudication", "Vascular Surgery", "General Surgery"),
     ("functional neurological symptoms", "Neurology", "Psychiatry"),
-    ("dyspepsia needing scope", "Gastro-Enterology", "GI Endoscopy"),
+    # GI endoscopy is its own NTPF waiting list, not an outpatient clinic, so it has no
+    # outpatient rows to compare against; the dyspepsia pair was removed with that fix.
     ("breast symptom", "Breast Surgery", "General Surgery"),
     ("multi-system inflammatory", "Rheumatology", "General Medicine"),
     ("palpitations or general decline", "Cardiology", "General Medicine"),

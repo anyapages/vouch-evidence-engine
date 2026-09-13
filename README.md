@@ -36,11 +36,28 @@ python3 scripts/build_ambiguity.py
 Both print what they found. Nothing is fetched; the committed files are the
 ones the checks run against.
 
+## Correction, 13 September 2026
+
+The first version of `data/ntpf.json` combined three NTPF waiting lists (outpatient,
+inpatient/day case and GI endoscopy) while describing itself as outpatient. The
+report's fact table carries all three lists, and the list type sits on a related table
+the extraction did not filter on. `scripts/ntpf.py` now filters to outpatient, and the
+adult total matches NTPF's published outpatient file (610,700 at 30 July 2026).
+
+What moved: 808 rows became 734, GI Endoscopy is no longer listed as a specialty, and
+the same-hospital ambiguity summary is now 230 pairs, median 9.4 points, 52 at or
+above 20 points, maximum 73.1 (it was 269, 8.9, 53 and 73.5).
+
+What did not move: Letterkenny ENT, 1 of 784 waiting over a year, and neurology, 542
+of 1,057; Cavan endocrinology, 0 of 231; St. Columcille's, 6,938 of 9,032; and the
+endocrinology stability finding, the same hospital last in 13 of 13 archives with the
+gap never below 72.7 points.
+
 ## What is here
 
 | Path | What it is |
 |---|---|
-| `data/ntpf.json` | Republic of Ireland, outpatient waiting list, **hospital x specialty**. 808 rows, 46 hospitals, 59 specialties. Archive 2026-07-30, published 2026-08-14. |
+| `data/ntpf.json` | Republic of Ireland, outpatient waiting list, **hospital x specialty**. 734 rows, 44 hospitals, 58 specialties, outpatient lists only. Archive 2026-07-30, published 2026-08-14. |
 | `data/ni.json` | Northern Ireland, outpatient waiting times, **HSC Trust x specialty**. 234 rows, five Trusts, 90 specialties. Position 30 June 2026, published 3 September 2026. |
 | `data/raw/` | The bytes each file was built from, committed so the derivation can be diffed rather than trusted. |
 | `data/README.md` | **Read this before doing arithmetic on any of it.** What the bands are, and the three things they cannot tell you. |

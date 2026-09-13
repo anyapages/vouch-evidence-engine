@@ -1,34 +1,33 @@
 specialty,hospital,age_group,waiting_over_12m,total_waiting,pct_over_12m
-Anaesthetics,Galway University Hospitals,Adult,0,104,0.0
 Anaesthetics,St. Columcille's Hospital,Adult,0,27,0.0
-Anaesthetics,Tallaght University Hospital,Adult,0,246,0.0
+Anaesthetics,Tallaght University Hospital,Adult,0,27,0.0
 Breast Surgery,Beaumont Hospital,Adult,0,665,0.0
-Breast Surgery,Cork University Hospital,Adult,9,2524,0.4
+Breast Surgery,Cork University Hospital,Adult,0,2431,0.0
 Breast Surgery,Galway University Hospitals,Adult,0,1355,0.0
-Breast Surgery,Letterkenny University Hospital,Adult,3,846,0.4
-Breast Surgery,University Hospital Limerick,Adult,1,309,0.3
-Breast Surgery,University Hospital Waterford,Adult,32,749,4.3
-Cardio-Thoracic Surgery,Children's Health Ireland,Child,0,65,0.0
-Cardio-Thoracic Surgery,Cork University Hospital,Adult,10,89,11.2
-Cardio-Thoracic Surgery,Galway University Hospitals,Adult,15,138,10.9
-Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Adult,155,700,22.1
-Cardio-Thoracic Surgery,St. James's Hospital,Adult,52,361,14.4
+Breast Surgery,Letterkenny University Hospital,Adult,0,826,0.0
+Breast Surgery,University Hospital Limerick,Adult,0,281,0.0
+Breast Surgery,University Hospital Waterford,Adult,0,636,0.0
+Cardio-Thoracic Surgery,Children's Health Ireland,Child,0,24,0.0
+Cardio-Thoracic Surgery,Cork University Hospital,Adult,0,21,0.0
+Cardio-Thoracic Surgery,Galway University Hospitals,Adult,0,65,0.0
+Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Adult,72,362,19.9
+Cardio-Thoracic Surgery,St. James's Hospital,Adult,0,54,0.0
 Cardio-Thoracic Surgery,St. Vincent's University Hospital,Adult,0,22,0.0
 Cardiology,Bantry General Hospital,Adult,0,146,0.0
-Cardiology,Beaumont Hospital,Adult,739,4112,18.0
-Cardiology,Cavan General Hospital,Adult,0,913,0.0
-Cardiology,Connolly Hospital Blanchardstown,Adult,0,1354,0.0
-Cardiology,Cork University Hospital,Adult,0,1729,0.0
+Cardiology,Beaumont Hospital,Adult,587,3331,17.6
+Cardiology,Cavan General Hospital,Adult,0,827,0.0
+Cardiology,Connolly Hospital Blanchardstown,Adult,0,1305,0.0
+Cardiology,Cork University Hospital,Adult,0,1568,0.0
 Cardiology,Ennis Hospital,Adult,645,1224,52.7
-Cardiology,Galway University Hospitals,Adult,120,2157,5.6
-Cardiology,Letterkenny University Hospital,Adult,17,1855,0.9
+Cardiology,Galway University Hospitals,Adult,6,1151,0.5
+Cardiology,Letterkenny University Hospital,Adult,16,1726,0.9
 Cardiology,Mallow General Hospital,Adult,7,532,1.3
-Cardiology,Mater Misericordiae University Hospital,Adult,431,4649,9.3
-Cardiology,Mayo University Hospital,Adult,66,1027,6.4
+Cardiology,Mater Misericordiae University Hospital,Adult,147,2926,5.0
+Cardiology,Mayo University Hospital,Adult,66,984,6.7
 Cardiology,Mercy University Hospital,Adult,1,866,0.1
-Cardiology,Midland Regional Hospital Mullingar,Adult,37,978,3.8
+Cardiology,Midland Regional Hospital Mullingar,Adult,37,922,4.0
 Cardiology,Midland Regional Hospital Portlaoise,Adult,0,24,0.0
-Cardiology,Midland Regional Hospital Tullamore,Adult,90,1476,6.1
+Cardiology,Midland Regional Hospital Tullamore,Adult,88,1331,6.6
 Cardiology,Naas General Hospital,Adult,2,719,0.3
 Cardiology,Nenagh Hospital,Adult,693,1276,54.3
 Cardiology,Our Lady of Lourdes Hospital Drogheda,Adult,196,2075,9.4
@@ -36,32 +35,32 @@ Cardiology,Our Lady's Hospital Navan,Adult,294,1775,16.6
 Cardiology,Portiuncula University Hospital,Adult,3,527,0.6
 Cardiology,Sligo University Hospital,Adult,84,1279,6.6
 Cardiology,St. Columcille's Hospital,Adult,0,152,0.0
-Cardiology,St. James's Hospital,Adult,223,2849,7.8
+Cardiology,St. James's Hospital,Adult,163,2262,7.2
 Cardiology,St. Luke's General Hospital Kilkenny,Adult,302,1497,20.2
 Cardiology,St. Michael's Hospital,Adult,183,692,26.4
-Cardiology,St. Vincent's University Hospital,Adult,429,2819,15.2
-Cardiology,Tallaght University Hospital,Adult,128,2348,5.5
+Cardiology,St. Vincent's University Hospital,Adult,345,2382,14.5
+Cardiology,Tallaght University Hospital,Adult,97,2149,4.5
 Cardiology,Tipperary University Hospital,Adult,218,1241,17.6
 Cardiology,University Hospital Kerry,Adult,251,1361,18.4
-Cardiology,University Hospital Limerick,Adult,873,3157,27.7
-Cardiology,University Hospital Waterford,Adult,1023,2945,34.7
+Cardiology,University Hospital Limerick,Adult,867,3044,28.5
+Cardiology,University Hospital Waterford,Adult,1023,2608,39.2
 Cardiology,Wexford General Hospital,Adult,313,1356,23.1
 Chemical Pathology,Galway University Hospitals,Adult,128,246,52.0
 Chemical Pathology,Tallaght University Hospital,Adult,1,150,0.7
 Clinical (Medical) Genetics,Children's Health Ireland,Child,2,21,9.5
 Clinical (Medical) Genetics,St. James's Hospital,Adult,1917,3430,55.9
-Clinical Immunology,Beaumont Hospital,Adult,609,2105,28.9
-Clinical Immunology,Children's Health Ireland,Child,138,1050,13.1
+Clinical Immunology,Beaumont Hospital,Adult,492,1442,34.1
+Clinical Immunology,Children's Health Ireland,Child,132,832,15.9
 Clinical Immunology,Galway University Hospitals,Adult,359,985,36.4
 Clinical Immunology,Galway University Hospitals,Child,2,21,9.5
-Clinical Immunology,St. James's Hospital,Adult,695,2601,26.7
-Dental Surgery,Children's Health Ireland,Child,68,575,11.8
+Clinical Immunology,St. James's Hospital,Adult,510,1790,28.5
+Dental Surgery,Children's Health Ireland,Child,41,283,14.5
 Dermatology,Bantry General Hospital,Adult,0,267,0.0
-Dermatology,Beaumont Hospital,Adult,800,5387,14.9
-Dermatology,Connolly Hospital Blanchardstown,Adult,386,736,52.4
+Dermatology,Beaumont Hospital,Adult,800,5242,15.3
+Dermatology,Connolly Hospital Blanchardstown,Adult,386,713,54.1
 Dermatology,Cork University Hospital,Adult,0,22,0.0
 Dermatology,Cork University Hospital,Child,7,30,23.3
-Dermatology,Galway University Hospitals,Adult,1376,3468,39.7
+Dermatology,Galway University Hospitals,Adult,1372,3444,39.8
 Dermatology,Galway University Hospitals,Child,266,754,35.3
 Dermatology,Letterkenny University Hospital,Adult,1,546,0.2
 Dermatology,Letterkenny University Hospital,Child,0,50,0.0
@@ -79,17 +78,17 @@ Dermatology,Portiuncula University Hospital,Adult,1,260,0.4
 Dermatology,Portiuncula University Hospital,Child,7,111,6.3
 Dermatology,Sligo University Hospital,Adult,1365,2560,53.3
 Dermatology,Sligo University Hospital,Child,304,449,67.7
-Dermatology,South Infirmary Victoria University Hospital,Adult,711,5701,12.5
+Dermatology,South Infirmary Victoria University Hospital,Adult,711,5512,12.9
 Dermatology,South Infirmary Victoria University Hospital,Child,4,234,1.7
-Dermatology,St. James's Hospital,Adult,249,2355,10.6
+Dermatology,St. James's Hospital,Adult,1,1688,0.1
 Dermatology,St. Michael's Hospital,Adult,326,769,42.4
 Dermatology,St. Vincent's University Hospital,Adult,778,3810,20.4
-Dermatology,Tallaght University Hospital,Adult,775,4340,17.9
+Dermatology,Tallaght University Hospital,Adult,775,4315,18.0
 Dermatology,University Hospital Kerry,Adult,568,1672,34.0
 Dermatology,University Hospital Kerry,Child,101,176,57.4
-Dermatology,University Hospital Limerick,Adult,967,4312,22.4
+Dermatology,University Hospital Limerick,Adult,967,4266,22.7
 Dermatology,University Hospital Limerick,Child,222,772,28.8
-Dermatology,University Hospital Waterford,Adult,2756,6926,39.8
+Dermatology,University Hospital Waterford,Adult,2747,6775,40.5
 Dermatology,University Hospital Waterford,Child,242,611,39.6
 Developmental Paediatrics,Children's Health Ireland,Child,1,334,0.3
 Developmental Paediatrics,Cork University Hospital,Child,0,312,0.0
@@ -134,55 +133,17 @@ Endocrinology,University Hospital Kerry,Adult,57,402,14.2
 Endocrinology,University Hospital Limerick,Adult,529,1415,37.4
 Endocrinology,University Hospital Waterford,Adult,247,930,26.6
 Endocrinology,Wexford General Hospital,Adult,0,39,0.0
-GI Endoscopy,Bantry General Hospital,Adult,0,365,0.0
-GI Endoscopy,Beaumont Hospital,Adult,1121,4823,23.2
-GI Endoscopy,Cavan General Hospital,Adult,1,1335,0.1
-GI Endoscopy,Children's Health Ireland,Child,33,409,8.1
-GI Endoscopy,Connolly Hospital Blanchardstown,Adult,0,1190,0.0
-GI Endoscopy,Cork University Hospital,Adult,55,1801,3.1
-GI Endoscopy,Ennis Hospital,Adult,551,2072,26.6
-GI Endoscopy,Galway University Hospitals,Adult,154,2787,5.5
-GI Endoscopy,Letterkenny University Hospital,Adult,149,1837,8.1
-GI Endoscopy,Louth County Hospital,Adult,0,1540,0.0
-GI Endoscopy,Mallow General Hospital,Adult,1,365,0.3
-GI Endoscopy,Mater Misericordiae University Hospital,Adult,125,1914,6.5
-GI Endoscopy,Mayo University Hospital,Adult,31,753,4.1
-GI Endoscopy,Mercy University Hospital,Adult,16,1158,1.4
-GI Endoscopy,Midland Regional Hospital Mullingar,Adult,0,781,0.0
-GI Endoscopy,Midland Regional Hospital Portlaoise,Adult,108,546,19.8
-GI Endoscopy,Midland Regional Hospital Tullamore,Adult,141,1330,10.6
-GI Endoscopy,Naas General Hospital,Adult,1,2015,0.0
-GI Endoscopy,Nenagh Hospital,Adult,0,432,0.0
-GI Endoscopy,Our Lady's Hospital Navan,Adult,0,439,0.0
-GI Endoscopy,Portiuncula University Hospital,Adult,0,317,0.0
-GI Endoscopy,Roscommon University Hospital,Adult,0,633,0.0
-GI Endoscopy,Sligo University Hospital,Adult,13,1284,1.0
-GI Endoscopy,Small Volume Hospitals,Adult,0,3,0.0
-GI Endoscopy,Small Volume Hospitals,Child,5,24,20.8
-GI Endoscopy,South Infirmary Victoria University Hospital,Adult,0,205,0.0
-GI Endoscopy,St. Columcille's Hospital,Adult,169,861,19.6
-GI Endoscopy,St. James's Hospital,Adult,8,1043,0.8
-GI Endoscopy,St. John's Hospital Limerick,Adult,31,625,5.0
-GI Endoscopy,St. Luke's General Hospital Kilkenny,Adult,100,945,10.6
-GI Endoscopy,St. Michael's Hospital,Adult,1,352,0.3
-GI Endoscopy,St. Vincent's University Hospital,Adult,0,365,0.0
-GI Endoscopy,Tallaght University Hospital,Adult,58,1929,3.0
-GI Endoscopy,Tipperary University Hospital,Adult,30,1256,2.4
-GI Endoscopy,University Hospital Kerry,Adult,0,955,0.0
-GI Endoscopy,University Hospital Limerick,Adult,210,1431,14.7
-GI Endoscopy,University Hospital Waterford,Adult,12,1009,1.2
-GI Endoscopy,Wexford General Hospital,Adult,71,1422,5.0
 Gastro-Enterology,Bantry General Hospital,Adult,0,223,0.0
-Gastro-Enterology,Beaumont Hospital,Adult,397,2519,15.8
+Gastro-Enterology,Beaumont Hospital,Adult,364,2129,17.1
 Gastro-Enterology,Cavan General Hospital,Adult,6,472,1.3
 Gastro-Enterology,Connolly Hospital Blanchardstown,Adult,0,256,0.0
 Gastro-Enterology,Cork University Hospital,Adult,202,1613,12.5
-Gastro-Enterology,Galway University Hospitals,Adult,186,1657,11.2
+Gastro-Enterology,Galway University Hospitals,Adult,180,1618,11.1
 Gastro-Enterology,Letterkenny University Hospital,Adult,318,1154,27.6
 Gastro-Enterology,Mallow General Hospital,Adult,88,359,24.5
 Gastro-Enterology,Mater Misericordiae University Hospital,Adult,61,1428,4.3
 Gastro-Enterology,Mayo University Hospital,Adult,1,143,0.7
-Gastro-Enterology,Mercy University Hospital,Adult,67,701,9.6
+Gastro-Enterology,Mercy University Hospital,Adult,59,569,10.4
 Gastro-Enterology,Midland Regional Hospital Portlaoise,Adult,0,116,0.0
 Gastro-Enterology,Midland Regional Hospital Tullamore,Adult,233,1025,22.7
 Gastro-Enterology,Our Lady of Lourdes Hospital Drogheda,Adult,49,807,6.1
@@ -193,88 +154,81 @@ Gastro-Enterology,St. Columcille's Hospital,Adult,0,62,0.0
 Gastro-Enterology,St. James's Hospital,Adult,251,1881,13.3
 Gastro-Enterology,St. Luke's General Hospital Kilkenny,Adult,46,687,6.7
 Gastro-Enterology,St. Michael's Hospital,Adult,15,836,1.8
-Gastro-Enterology,St. Vincent's University Hospital,Adult,65,1258,5.2
-Gastro-Enterology,Tallaght University Hospital,Adult,46,950,4.8
+Gastro-Enterology,St. Vincent's University Hospital,Adult,64,1186,5.4
+Gastro-Enterology,Tallaght University Hospital,Adult,44,883,5.0
 Gastro-Enterology,Tipperary University Hospital,Adult,55,513,10.7
 Gastro-Enterology,University Hospital Kerry,Adult,2,216,0.9
 Gastro-Enterology,University Hospital Limerick,Adult,117,1591,7.4
-Gastro-Enterology,University Hospital Waterford,Adult,79,1355,5.8
-Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Adult,462,993,46.5
-Gastro-Intestinal Surgery,Mercy University Hospital,Adult,12,283,4.2
-Gastro-Intestinal Surgery,University Hospital Waterford,Adult,139,1465,9.5
+Gastro-Enterology,University Hospital Waterford,Adult,77,1304,5.9
+Gastro-Intestinal Surgery,Mercy University Hospital,Adult,12,250,4.8
+Gastro-Intestinal Surgery,University Hospital Waterford,Adult,127,1299,9.8
 General Medicine,Bantry General Hospital,Adult,0,81,0.0
 General Medicine,Cavan General Hospital,Adult,0,256,0.0
 General Medicine,Letterkenny University Hospital,Adult,2,268,0.7
-General Medicine,Louth County Hospital,Adult,0,41,0.0
 General Medicine,Mallow General Hospital,Adult,0,149,0.0
 General Medicine,Mater Misericordiae University Hospital,Adult,0,32,0.0
 General Medicine,Mayo University Hospital,Adult,104,978,10.6
-General Medicine,Midland Regional Hospital Mullingar,Adult,916,3767,24.3
+General Medicine,Midland Regional Hospital Mullingar,Adult,906,3681,24.6
 General Medicine,Midland Regional Hospital Portlaoise,Adult,0,35,0.0
 General Medicine,Midland Regional Hospital Tullamore,Adult,11,159,6.9
 General Medicine,Naas General Hospital,Adult,765,3165,24.2
 General Medicine,Portiuncula University Hospital,Adult,1,128,0.8
 General Medicine,Roscommon University Hospital,Adult,0,396,0.0
 General Medicine,Sligo University Hospital,Adult,13,171,7.6
-General Medicine,St. James's Hospital,Adult,385,1342,28.7
+General Medicine,St. James's Hospital,Adult,379,1305,29.0
 General Medicine,St. Luke's General Hospital Kilkenny,Adult,14,178,7.9
 General Medicine,Tipperary University Hospital,Adult,139,504,27.6
 General Medicine,University Hospital Kerry,Adult,32,260,12.3
 General Medicine,University Hospital Limerick,Adult,0,87,0.0
 General Medicine,Wexford General Hospital,Adult,231,1557,14.8
-General Surgery,Bantry General Hospital,Adult,0,393,0.0
-General Surgery,Beaumont Hospital,Adult,844,2776,30.4
-General Surgery,Cavan General Hospital,Adult,0,958,0.0
-General Surgery,Cavan General Hospital,Child,0,29,0.0
-General Surgery,Connolly Hospital Blanchardstown,Adult,18,1321,1.4
-General Surgery,Cork University Hospital,Adult,174,1123,15.5
-General Surgery,Cork University Hospital,Child,82,204,40.2
-General Surgery,Ennis Hospital,Adult,3,157,1.9
-General Surgery,Galway University Hospitals,Adult,1001,4064,24.6
+General Surgery,Bantry General Hospital,Adult,0,271,0.0
+General Surgery,Beaumont Hospital,Adult,0,537,0.0
+General Surgery,Cavan General Hospital,Adult,0,626,0.0
+General Surgery,Connolly Hospital Blanchardstown,Adult,0,679,0.0
+General Surgery,Cork University Hospital,Adult,57,724,7.9
+General Surgery,Cork University Hospital,Child,50,162,30.9
+General Surgery,Galway University Hospitals,Adult,32,1634,2.0
 General Surgery,Galway University Hospitals,Child,0,35,0.0
-General Surgery,Letterkenny University Hospital,Adult,59,1653,3.6
-General Surgery,Letterkenny University Hospital,Child,0,68,0.0
-General Surgery,Louth County Hospital,Adult,2,528,0.4
-General Surgery,Mallow General Hospital,Adult,7,826,0.8
-General Surgery,Mater Misericordiae University Hospital,Adult,362,2852,12.7
-General Surgery,Mayo University Hospital,Adult,1,604,0.2
+General Surgery,Letterkenny University Hospital,Adult,15,1030,1.5
+General Surgery,Letterkenny University Hospital,Child,0,32,0.0
+General Surgery,Louth County Hospital,Adult,0,339,0.0
+General Surgery,Mallow General Hospital,Adult,0,652,0.0
+General Surgery,Mater Misericordiae University Hospital,Adult,142,2046,6.9
+General Surgery,Mayo University Hospital,Adult,1,568,0.2
 General Surgery,Mayo University Hospital,Child,4,76,5.3
-General Surgery,Mercy University Hospital,Adult,114,964,11.8
-General Surgery,Midland Regional Hospital Mullingar,Adult,65,1700,3.8
+General Surgery,Mercy University Hospital,Adult,91,759,12.0
+General Surgery,Midland Regional Hospital Mullingar,Adult,48,1403,3.4
 General Surgery,Midland Regional Hospital Mullingar,Child,12,191,6.3
-General Surgery,Midland Regional Hospital Portlaoise,Adult,49,932,5.3
+General Surgery,Midland Regional Hospital Portlaoise,Adult,25,763,3.3
 General Surgery,Midland Regional Hospital Portlaoise,Child,1,57,1.8
-General Surgery,Midland Regional Hospital Tullamore,Adult,97,1274,7.6
-General Surgery,Midland Regional Hospital Tullamore,Child,0,22,0.0
-General Surgery,Naas General Hospital,Adult,40,1071,3.7
-General Surgery,Nenagh Hospital,Adult,14,169,8.3
-General Surgery,Our Lady of Lourdes Hospital Drogheda,Adult,8,775,1.0
-General Surgery,Our Lady's Hospital Navan,Adult,1,722,0.1
-General Surgery,Portiuncula University Hospital,Adult,1,470,0.2
+General Surgery,Midland Regional Hospital Tullamore,Adult,0,476,0.0
+General Surgery,Naas General Hospital,Adult,0,620,0.0
+General Surgery,Our Lady of Lourdes Hospital Drogheda,Adult,4,573,0.7
+General Surgery,Our Lady's Hospital Navan,Adult,0,454,0.0
+General Surgery,Portiuncula University Hospital,Adult,1,311,0.3
 General Surgery,Portiuncula University Hospital,Child,0,40,0.0
-General Surgery,Roscommon University Hospital,Adult,2,328,0.6
-General Surgery,Sligo University Hospital,Adult,14,1073,1.3
+General Surgery,Roscommon University Hospital,Adult,2,236,0.8
+General Surgery,Sligo University Hospital,Adult,1,921,0.1
 General Surgery,Sligo University Hospital,Child,0,44,0.0
-General Surgery,South Infirmary Victoria University Hospital,Adult,220,1395,15.8
+General Surgery,South Infirmary Victoria University Hospital,Adult,220,1155,19.0
 General Surgery,South Infirmary Victoria University Hospital,Child,11,47,23.4
-General Surgery,St. Columcille's Hospital,Adult,2,183,1.1
-General Surgery,St. James's Hospital,Adult,100,4074,2.5
-General Surgery,St. John's Hospital Limerick,Adult,38,496,7.7
-General Surgery,St. Luke's General Hospital Kilkenny,Adult,21,986,2.1
-General Surgery,St. Michael's Hospital,Adult,148,1218,12.2
-General Surgery,St. Vincent's University Hospital,Adult,206,3850,5.4
-General Surgery,Tallaght University Hospital,Adult,63,2396,2.6
-General Surgery,Tipperary University Hospital,Adult,8,1263,0.6
+General Surgery,St. Columcille's Hospital,Adult,0,29,0.0
+General Surgery,St. James's Hospital,Adult,23,3271,0.7
+General Surgery,St. Luke's General Hospital Kilkenny,Adult,14,788,1.8
+General Surgery,St. Michael's Hospital,Adult,0,188,0.0
+General Surgery,St. Vincent's University Hospital,Adult,22,2911,0.8
+General Surgery,Tallaght University Hospital,Adult,36,1820,2.0
+General Surgery,Tipperary University Hospital,Adult,4,932,0.4
 General Surgery,Tipperary University Hospital,Child,2,116,1.7
-General Surgery,University Hospital Kerry,Adult,1,1762,0.1
+General Surgery,University Hospital Kerry,Adult,0,1568,0.0
 General Surgery,University Hospital Kerry,Child,0,49,0.0
-General Surgery,University Hospital Limerick,Adult,86,2000,4.3
-General Surgery,University Hospital Waterford,Adult,172,972,17.7
-General Surgery,University Hospital Waterford,Child,9,43,20.9
-General Surgery,Wexford General Hospital,Adult,96,2326,4.1
+General Surgery,University Hospital Limerick,Adult,41,1779,2.3
+General Surgery,University Hospital Waterford,Adult,6,395,1.5
+General Surgery,University Hospital Waterford,Child,0,22,0.0
+General Surgery,Wexford General Hospital,Adult,2,1394,0.1
 General Surgery,Wexford General Hospital,Child,0,46,0.0
 Geriatric Medicine,Bantry General Hospital,Adult,8,45,17.8
-Geriatric Medicine,Beaumont Hospital,Adult,0,746,0.0
+Geriatric Medicine,Beaumont Hospital,Adult,0,715,0.0
 Geriatric Medicine,Connolly Hospital Blanchardstown,Adult,12,346,3.5
 Geriatric Medicine,Cork University Hospital,Adult,0,159,0.0
 Geriatric Medicine,Galway University Hospitals,Adult,0,24,0.0
@@ -283,58 +237,56 @@ Geriatric Medicine,Mallow General Hospital,Adult,48,244,19.7
 Geriatric Medicine,Mater Misericordiae University Hospital,Adult,0,201,0.0
 Geriatric Medicine,Mercy University Hospital,Adult,0,36,0.0
 Geriatric Medicine,Midland Regional Hospital Tullamore,Adult,0,220,0.0
-Geriatric Medicine,Naas General Hospital,Adult,46,160,28.7
+Geriatric Medicine,Naas General Hospital,Adult,46,160,28.8
 Geriatric Medicine,Our Lady's Hospital Navan,Adult,0,245,0.0
 Geriatric Medicine,Roscommon University Hospital,Adult,0,150,0.0
 Geriatric Medicine,St. Columcille's Hospital,Adult,1,304,0.3
-Geriatric Medicine,St. James's Hospital,Adult,21,566,3.7
+Geriatric Medicine,St. James's Hospital,Adult,0,322,0.0
 Geriatric Medicine,St. Vincent's University Hospital,Adult,28,842,3.3
 Geriatric Medicine,Tallaght University Hospital,Adult,0,512,0.0
 Geriatric Medicine,University Hospital Kerry,Adult,6,108,5.6
 Geriatric Medicine,University Hospital Limerick,Adult,0,38,0.0
 Geriatric Medicine,University Hospital Waterford,Adult,1,196,0.5
 Geriatric Medicine,Wexford General Hospital,Adult,0,152,0.0
-Gynaecology,Beaumont Hospital,Adult,84,623,13.5
-Gynaecology,Cavan General Hospital,Adult,0,1040,0.0
+Gynaecology,Beaumont Hospital,Adult,14,359,3.9
+Gynaecology,Cavan General Hospital,Adult,0,1005,0.0
 Gynaecology,Children's Health Ireland,Child,27,294,9.2
-Gynaecology,Connolly Hospital Blanchardstown,Adult,5,292,1.7
+Gynaecology,Connolly Hospital Blanchardstown,Adult,0,170,0.0
 Gynaecology,Coombe Women and Infants University Hospital,Adult,105,3708,2.8
 Gynaecology,Coombe Women and Infants University Hospital,Child,0,35,0.0
-Gynaecology,Cork University Maternity Hospital,Adult,9,3443,0.3
+Gynaecology,Cork University Maternity Hospital,Adult,0,2765,0.0
 Gynaecology,Cork University Maternity Hospital,Child,0,60,0.0
-Gynaecology,Ennis Hospital,Adult,0,22,0.0
-Gynaecology,Galway University Hospitals,Adult,151,2583,5.8
+Gynaecology,Galway University Hospitals,Adult,25,2245,1.1
 Gynaecology,Galway University Hospitals,Child,0,41,0.0
-Gynaecology,Letterkenny University Hospital,Adult,6,1460,0.4
-Gynaecology,Louth County Hospital,Adult,14,364,3.8
-Gynaecology,Mater Misericordiae University Hospital,Adult,4,310,1.3
-Gynaecology,Mayo University Hospital,Adult,3,951,0.3
-Gynaecology,Midland Regional Hospital Mullingar,Adult,15,2300,0.7
+Gynaecology,Letterkenny University Hospital,Adult,0,1192,0.0
+Gynaecology,Louth County Hospital,Adult,14,305,4.6
+Gynaecology,Mater Misericordiae University Hospital,Adult,0,215,0.0
+Gynaecology,Mayo University Hospital,Adult,1,636,0.2
+Gynaecology,Midland Regional Hospital Mullingar,Adult,12,2000,0.6
 Gynaecology,Midland Regional Hospital Mullingar,Child,0,32,0.0
-Gynaecology,Midland Regional Hospital Portlaoise,Adult,17,1157,1.5
+Gynaecology,Midland Regional Hospital Portlaoise,Adult,15,1098,1.4
 Gynaecology,Midland Regional Hospital Portlaoise,Child,0,20,0.0
-Gynaecology,National Maternity Hospital (Holles Street),Adult,573,4259,13.5
+Gynaecology,National Maternity Hospital (Holles Street),Adult,461,3654,12.6
 Gynaecology,National Maternity Hospital (Holles Street),Child,0,76,0.0
-Gynaecology,Nenagh Hospital,Adult,0,20,0.0
-Gynaecology,Our Lady of Lourdes Hospital Drogheda,Adult,20,2047,1.0
+Gynaecology,Our Lady of Lourdes Hospital Drogheda,Adult,20,1946,1.0
 Gynaecology,Our Lady of Lourdes Hospital Drogheda,Child,0,30,0.0
 Gynaecology,Our Lady's Hospital Navan,Adult,1,475,0.2
-Gynaecology,Portiuncula University Hospital,Adult,1,727,0.1
-Gynaecology,Rotunda Hospital,Adult,148,7109,2.1
+Gynaecology,Portiuncula University Hospital,Adult,1,645,0.2
+Gynaecology,Rotunda Hospital,Adult,127,6564,1.9
 Gynaecology,Rotunda Hospital,Child,0,66,0.0
-Gynaecology,Sligo University Hospital,Adult,46,1071,4.3
-Gynaecology,St. James's Hospital,Adult,12,181,6.6
-Gynaecology,St. Luke's General Hospital Kilkenny,Adult,91,1771,5.1
+Gynaecology,Sligo University Hospital,Adult,1,794,0.1
+Gynaecology,St. James's Hospital,Adult,1,72,1.4
+Gynaecology,St. Luke's General Hospital Kilkenny,Adult,34,1352,2.5
 Gynaecology,St. Luke's General Hospital Kilkenny,Child,2,28,7.1
-Gynaecology,St. Michael's Hospital,Adult,238,708,33.6
-Gynaecology,St. Vincent's University Hospital,Adult,1,187,0.5
-Gynaecology,Tallaght University Hospital,Adult,208,2653,7.8
-Gynaecology,Tipperary University Hospital,Adult,9,478,1.9
-Gynaecology,University Hospital Kerry,Adult,0,703,0.0
-Gynaecology,University Hospital Limerick,Adult,1,2786,0.0
+Gynaecology,St. Michael's Hospital,Adult,131,461,28.4
+Gynaecology,St. Vincent's University Hospital,Adult,0,126,0.0
+Gynaecology,Tallaght University Hospital,Adult,164,2344,7.0
+Gynaecology,Tipperary University Hospital,Adult,0,282,0.0
+Gynaecology,University Hospital Kerry,Adult,0,567,0.0
+Gynaecology,University Hospital Limerick,Adult,0,2572,0.0
 Gynaecology,University Hospital Limerick,Child,0,62,0.0
-Gynaecology,University Hospital Waterford,Adult,21,1215,1.7
-Gynaecology,Wexford General Hospital,Adult,6,1514,0.4
+Gynaecology,University Hospital Waterford,Adult,0,861,0.0
+Gynaecology,Wexford General Hospital,Adult,4,1448,0.3
 Haematology,Beaumont Hospital,Adult,43,1758,2.4
 Haematology,Connolly Hospital Blanchardstown,Adult,117,834,14.0
 Haematology,Cork University Hospital,Adult,33,498,6.6
@@ -349,14 +301,14 @@ Haematology,Naas General Hospital,Adult,316,788,40.1
 Haematology,Our Lady of Lourdes Hospital Drogheda,Adult,0,160,0.0
 Haematology,Sligo University Hospital,Adult,178,545,32.7
 Haematology,St. James's Hospital,Adult,0,480,0.0
-Haematology,St. Vincent's University Hospital,Adult,197,894,22.0
+Haematology,St. Vincent's University Hospital,Adult,196,845,23.2
 Haematology,Tallaght University Hospital,Adult,252,1102,22.9
 Haematology,University Hospital Kerry,Adult,0,101,0.0
 Haematology,University Hospital Limerick,Adult,0,185,0.0
 Haematology,University Hospital Waterford,Adult,86,738,11.7
 Hepato-Biliary Surgery,Cork University Hospital,Adult,0,61,0.0
-Hepato-Biliary Surgery,Mercy University Hospital,Adult,52,169,30.8
-Immunology,Children's Health Ireland,Child,3,242,1.2
+Hepato-Biliary Surgery,Mercy University Hospital,Adult,46,128,35.9
+Immunology,Children's Health Ireland,Child,0,168,0.0
 Immunology,Cork University Hospital,Adult,6,314,1.9
 Infectious Diseases,Beaumont Hospital,Adult,0,80,0.0
 Infectious Diseases,Cork University Hospital,Adult,0,69,0.0
@@ -366,19 +318,15 @@ Infectious Diseases,St. James's Hospital,Adult,0,39,0.0
 Infectious Diseases,St. Vincent's University Hospital,Adult,1,131,0.8
 Infectious Diseases,University Hospital Limerick,Adult,17,41,41.5
 Maxillo-Facial,Beaumont Hospital,Adult,0,68,0.0
-Maxillo-Facial,Children's Health Ireland,Child,0,50,0.0
 Maxillo-Facial,Cork University Hospital,Adult,0,22,0.0
-Maxillo-Facial,Galway University Hospitals,Adult,285,1748,16.3
-Maxillo-Facial,Galway University Hospitals,Child,14,235,6.0
-Maxillo-Facial,Mater Misericordiae University Hospital,Adult,59,143,41.3
+Maxillo-Facial,Galway University Hospitals,Adult,11,1010,1.1
+Maxillo-Facial,Galway University Hospitals,Child,0,112,0.0
 Maxillo-Facial,Portiuncula University Hospital,Adult,1,32,3.1
-Maxillo-Facial,Roscommon University Hospital,Adult,3,185,1.6
-Maxillo-Facial,Sligo University Hospital,Adult,28,40,70.0
-Maxillo-Facial,South Infirmary Victoria University Hospital,Adult,69,695,9.9
+Maxillo-Facial,South Infirmary Victoria University Hospital,Adult,64,595,10.8
 Maxillo-Facial,South Infirmary Victoria University Hospital,Child,9,124,7.3
-Maxillo-Facial,St. James's Hospital,Adult,172,1166,14.8
-Maxillo-Facial,University Hospital Limerick,Adult,20,1325,1.5
-Maxillo-Facial,University Hospital Limerick,Child,2,88,2.3
+Maxillo-Facial,St. James's Hospital,Adult,2,636,0.3
+Maxillo-Facial,University Hospital Limerick,Adult,1,839,0.1
+Maxillo-Facial,University Hospital Limerick,Child,0,56,0.0
 Metabolic Medicine,Mater Misericordiae University Hospital,Adult,7,166,4.2
 Nephrology,Beaumont Hospital,Adult,0,259,0.0
 Nephrology,Cavan General Hospital,Adult,26,210,12.4
@@ -402,11 +350,11 @@ Nephrology,University Hospital Kerry,Adult,0,131,0.0
 Nephrology,University Hospital Limerick,Adult,19,267,7.1
 Nephrology,University Hospital Waterford,Adult,3,306,1.0
 Neurology,Bantry General Hospital,Adult,36,91,39.6
-Neurology,Beaumont Hospital,Adult,2560,6182,41.4
+Neurology,Beaumont Hospital,Adult,2520,6102,41.3
 Neurology,Cavan General Hospital,Adult,9,75,12.0
 Neurology,Connolly Hospital Blanchardstown,Adult,0,24,0.0
 Neurology,Cork University Hospital,Adult,0,1825,0.0
-Neurology,Galway University Hospitals,Adult,1091,2871,38.0
+Neurology,Galway University Hospitals,Adult,1073,2809,38.2
 Neurology,Letterkenny University Hospital,Adult,542,1057,51.3
 Neurology,Mater Misericordiae University Hospital,Adult,1280,3918,32.7
 Neurology,Mayo University Hospital,Adult,0,280,0.0
@@ -416,16 +364,15 @@ Neurology,Midland Regional Hospital Portlaoise,Adult,0,45,0.0
 Neurology,Naas General Hospital,Adult,0,64,0.0
 Neurology,Our Lady of Lourdes Hospital Drogheda,Adult,4,22,18.2
 Neurology,Sligo University Hospital,Adult,341,782,43.6
-Neurology,St. James's Hospital,Adult,75,1224,6.1
+Neurology,St. James's Hospital,Adult,66,1173,5.6
 Neurology,St. Luke's General Hospital Kilkenny,Adult,309,595,51.9
-Neurology,St. Vincent's University Hospital,Adult,1031,2889,35.7
+Neurology,St. Vincent's University Hospital,Adult,1027,2854,36.0
 Neurology,Tallaght University Hospital,Adult,212,1947,10.9
 Neurology,University Hospital Kerry,Adult,244,569,42.9
 Neurology,University Hospital Limerick,Adult,0,1332,0.0
 Neurology,University Hospital Waterford,Adult,29,1512,1.9
-Neurosurgery,Beaumont Hospital,Adult,3775,8884,42.5
-Neurosurgery,Cork University Hospital,Adult,888,4390,20.2
-Neurosurgery,Mater Misericordiae University Hospital,Adult,1,31,3.2
+Neurosurgery,Beaumont Hospital,Adult,3216,7999,40.2
+Neurosurgery,Cork University Hospital,Adult,888,4302,20.6
 Obstetrics,University Hospital Kerry,Adult,0,109,0.0
 Oncology,Beaumont Hospital,Adult,0,36,0.0
 Oncology,Cork University Hospital,Adult,0,238,0.0
@@ -435,106 +382,103 @@ Oncology,Mater Misericordiae University Hospital,Adult,0,63,0.0
 Oncology,Midland Regional Hospital Tullamore,Adult,0,45,0.0
 Oncology,Sligo University Hospital,Adult,1,39,2.6
 Oncology,St. James's Hospital,Adult,0,36,0.0
-Oncology,St. Vincent's University Hospital,Adult,0,373,0.0
+Oncology,St. Vincent's University Hospital,Adult,0,292,0.0
 Oncology,University Hospital Limerick,Adult,0,85,0.0
 Ophthalmology,Beaumont Hospital,Adult,363,1265,28.7
-Ophthalmology,Children's Health Ireland,Child,232,2033,11.4
+Ophthalmology,Children's Health Ireland,Child,1,1378,0.1
 Ophthalmology,Connolly Hospital Blanchardstown,Adult,0,27,0.0
-Ophthalmology,Galway University Hospitals,Adult,1619,4568,35.4
-Ophthalmology,Galway University Hospitals,Child,89,234,38.0
-Ophthalmology,Louth County Hospital,Adult,0,86,0.0
-Ophthalmology,Mater Misericordiae University Hospital,Adult,2519,12640,19.9
+Ophthalmology,Galway University Hospitals,Adult,1276,2576,49.5
+Ophthalmology,Galway University Hospitals,Child,79,182,43.4
+Ophthalmology,Louth County Hospital,Adult,0,51,0.0
+Ophthalmology,Mater Misericordiae University Hospital,Adult,1789,9157,19.5
 Ophthalmology,Midland Regional Hospital Portlaoise,Adult,135,378,35.7
 Ophthalmology,Midland Regional Hospital Portlaoise,Child,0,124,0.0
-Ophthalmology,Nenagh Hospital,Adult,267,979,27.3
 Ophthalmology,Our Lady of Lourdes Hospital Drogheda,Adult,0,400,0.0
 Ophthalmology,Our Lady of Lourdes Hospital Drogheda,Child,0,62,0.0
-Ophthalmology,Royal Victoria Eye and Ear Hospital,Adult,4121,15640,26.3
-Ophthalmology,Royal Victoria Eye and Ear Hospital,Child,184,567,32.5
-Ophthalmology,Sligo University Hospital,Adult,177,1606,11.0
-Ophthalmology,Sligo University Hospital,Child,1,80,1.2
-Ophthalmology,South Infirmary Victoria University Hospital,Adult,1809,6661,27.2
+Ophthalmology,Royal Victoria Eye and Ear Hospital,Adult,3703,12376,29.9
+Ophthalmology,Royal Victoria Eye and Ear Hospital,Child,175,517,33.8
+Ophthalmology,Sligo University Hospital,Adult,11,803,1.4
+Ophthalmology,Sligo University Hospital,Child,1,58,1.7
+Ophthalmology,South Infirmary Victoria University Hospital,Adult,1809,6154,29.4
 Ophthalmology,South Infirmary Victoria University Hospital,Child,140,604,23.2
 Ophthalmology,St. James's Hospital,Adult,0,170,0.0
 Ophthalmology,St. Michael's Hospital,Adult,0,42,0.0
-Ophthalmology,St. Vincent's University Hospital,Adult,3,607,0.5
+Ophthalmology,St. Vincent's University Hospital,Adult,1,351,0.3
 Ophthalmology,Tallaght University Hospital,Adult,0,57,0.0
-Ophthalmology,University Hospital Limerick,Adult,920,4354,21.1
+Ophthalmology,University Hospital Limerick,Adult,507,3085,16.4
 Ophthalmology,University Hospital Limerick,Child,68,329,20.7
-Ophthalmology,University Hospital Waterford,Adult,1978,6755,29.3
-Ophthalmology,University Hospital Waterford,Child,154,795,19.4
-Orthopaedics,Beaumont Hospital,Adult,1731,4564,37.9
+Ophthalmology,University Hospital Waterford,Adult,1668,5385,31.0
+Ophthalmology,University Hospital Waterford,Child,129,737,17.5
+Orthopaedics,Beaumont Hospital,Adult,1441,4157,34.7
 Orthopaedics,Cavan General Hospital,Adult,3,1341,0.2
-Orthopaedics,Connolly Hospital Blanchardstown,Adult,23,1052,2.2
-Orthopaedics,Cork University Hospital,Adult,30,288,10.4
-Orthopaedics,Croom Orthopaedic Hospital,Adult,925,7024,13.2
+Orthopaedics,Connolly Hospital Blanchardstown,Adult,23,930,2.5
+Orthopaedics,Cork University Hospital,Adult,0,154,0.0
+Orthopaedics,Croom Orthopaedic Hospital,Adult,925,6416,14.4
 Orthopaedics,Croom Orthopaedic Hospital,Child,1,136,0.7
-Orthopaedics,Galway University Hospitals,Adult,2157,9463,22.8
+Orthopaedics,Galway University Hospitals,Adult,2059,8637,23.8
 Orthopaedics,Galway University Hospitals,Child,53,474,11.2
-Orthopaedics,Kilcreene Regional Orthopaedic Hospital,Adult,39,826,4.7
-Orthopaedics,Letterkenny University Hospital,Adult,85,3406,2.5
+Orthopaedics,Letterkenny University Hospital,Adult,1,1511,0.1
 Orthopaedics,Letterkenny University Hospital,Child,0,86,0.0
-Orthopaedics,Louth County Hospital,Adult,185,1876,9.9
-Orthopaedics,Mater Misericordiae University Hospital,Adult,936,4480,20.9
-Orthopaedics,Mayo University Hospital,Adult,112,2458,4.6
+Orthopaedics,Louth County Hospital,Adult,185,1800,10.3
+Orthopaedics,Mater Misericordiae University Hospital,Adult,749,4088,18.3
+Orthopaedics,Mayo University Hospital,Adult,71,1656,4.3
 Orthopaedics,Mayo University Hospital,Child,10,121,8.3
-Orthopaedics,Midland Regional Hospital Tullamore,Adult,1694,9844,17.2
+Orthopaedics,Midland Regional Hospital Tullamore,Adult,1259,8234,15.3
 Orthopaedics,Midland Regional Hospital Tullamore,Child,0,105,0.0
 Orthopaedics,Naas General Hospital,Adult,752,3082,24.4
-Orthopaedics,National Orthopaedic Hospital Cappagh,Adult,604,4529,13.3
-Orthopaedics,National Orthopaedic Hospital Cappagh,Child,4,206,1.9
-Orthopaedics,Our Lady's Hospital Navan,Adult,406,3172,12.8
+Orthopaedics,National Orthopaedic Hospital Cappagh,Adult,585,2355,24.8
+Orthopaedics,National Orthopaedic Hospital Cappagh,Child,4,164,2.4
+Orthopaedics,Our Lady's Hospital Navan,Adult,403,2882,14.0
 Orthopaedics,Roscommon University Hospital,Adult,16,143,11.2
-Orthopaedics,Sligo University Hospital,Adult,240,3189,7.5
+Orthopaedics,Sligo University Hospital,Adult,12,1799,0.7
 Orthopaedics,Sligo University Hospital,Child,5,106,4.7
-Orthopaedics,South Infirmary Victoria University Hospital,Adult,2326,7819,29.7
+Orthopaedics,South Infirmary Victoria University Hospital,Adult,2315,7483,30.9
 Orthopaedics,South Infirmary Victoria University Hospital,Child,152,555,27.4
 Orthopaedics,St. Columcille's Hospital,Adult,0,45,0.0
-Orthopaedics,St. James's Hospital,Adult,176,3269,5.4
-Orthopaedics,St. Michael's Hospital,Adult,0,220,0.0
-Orthopaedics,St. Vincent's University Hospital,Adult,1275,5361,23.8
-Orthopaedics,Tallaght University Hospital,Adult,2138,8874,24.1
-Orthopaedics,University Hospital Kerry,Adult,3,1800,0.2
+Orthopaedics,St. James's Hospital,Adult,91,2457,3.7
+Orthopaedics,St. Michael's Hospital,Adult,0,190,0.0
+Orthopaedics,St. Vincent's University Hospital,Adult,1254,5243,23.9
+Orthopaedics,Tallaght University Hospital,Adult,1594,6473,24.6
+Orthopaedics,University Hospital Kerry,Adult,2,1662,0.1
 Orthopaedics,University Hospital Kerry,Child,0,35,0.0
-Orthopaedics,University Hospital Waterford,Adult,1925,9025,21.3
+Orthopaedics,University Hospital Waterford,Adult,1898,8822,21.5
 Orthopaedics,University Hospital Waterford,Child,71,300,23.7
-Otolaryngology (ENT),Beaumont Hospital,Adult,711,4983,14.3
+Otolaryngology (ENT),Beaumont Hospital,Adult,344,4201,8.2
 Otolaryngology (ENT),Beaumont Hospital,Child,1,22,4.5
 Otolaryngology (ENT),Cavan General Hospital,Adult,19,1231,1.5
 Otolaryngology (ENT),Cavan General Hospital,Child,1,34,2.9
 Otolaryngology (ENT),Cork University Hospital,Adult,1,54,1.9
 Otolaryngology (ENT),Cork University Hospital,Child,0,32,0.0
-Otolaryngology (ENT),Galway University Hospitals,Adult,347,2939,11.8
-Otolaryngology (ENT),Galway University Hospitals,Child,98,1313,7.5
+Otolaryngology (ENT),Galway University Hospitals,Adult,31,2307,1.3
+Otolaryngology (ENT),Galway University Hospitals,Child,4,1068,0.4
 Otolaryngology (ENT),Letterkenny University Hospital,Adult,1,784,0.1
 Otolaryngology (ENT),Letterkenny University Hospital,Child,2,338,0.6
-Otolaryngology (ENT),Louth County Hospital,Adult,0,35,0.0
-Otolaryngology (ENT),Mallow General Hospital,Adult,5,347,1.4
+Otolaryngology (ENT),Mallow General Hospital,Adult,5,303,1.7
 Otolaryngology (ENT),Mallow General Hospital,Child,1,159,0.6
-Otolaryngology (ENT),Mater Misericordiae University Hospital,Adult,644,2874,22.4
+Otolaryngology (ENT),Mater Misericordiae University Hospital,Adult,607,2607,23.3
 Otolaryngology (ENT),Mayo University Hospital,Adult,141,700,20.1
 Otolaryngology (ENT),Mayo University Hospital,Child,117,440,26.6
-Otolaryngology (ENT),Midland Regional Hospital Tullamore,Adult,247,3402,7.3
-Otolaryngology (ENT),Midland Regional Hospital Tullamore,Child,80,1354,5.9
-Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,Adult,120,1405,8.5
+Otolaryngology (ENT),Midland Regional Hospital Tullamore,Adult,176,2996,5.9
+Otolaryngology (ENT),Midland Regional Hospital Tullamore,Child,80,1181,6.8
+Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,Adult,120,1314,9.1
 Otolaryngology (ENT),Roscommon University Hospital,Adult,2,255,0.8
-Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Adult,1946,4842,40.2
-Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Child,88,240,36.7
-Otolaryngology (ENT),Sligo University Hospital,Adult,2,834,0.2
-Otolaryngology (ENT),Sligo University Hospital,Child,2,398,0.5
-Otolaryngology (ENT),South Infirmary Victoria University Hospital,Adult,458,4647,9.9
-Otolaryngology (ENT),South Infirmary Victoria University Hospital,Child,213,1776,12.0
-Otolaryngology (ENT),St. James's Hospital,Adult,401,1540,26.0
-Otolaryngology (ENT),St. Michael's Hospital,Adult,25,799,3.1
-Otolaryngology (ENT),St. Vincent's University Hospital,Adult,435,2004,21.7
-Otolaryngology (ENT),Tallaght University Hospital,Adult,292,2885,10.1
+Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Adult,1543,4137,37.3
+Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Child,74,209,35.4
+Otolaryngology (ENT),Sligo University Hospital,Adult,0,728,0.0
+Otolaryngology (ENT),Sligo University Hospital,Child,0,325,0.0
+Otolaryngology (ENT),South Infirmary Victoria University Hospital,Adult,434,4137,10.5
+Otolaryngology (ENT),South Infirmary Victoria University Hospital,Child,212,1490,14.2
+Otolaryngology (ENT),St. James's Hospital,Adult,310,1180,26.3
+Otolaryngology (ENT),St. Michael's Hospital,Adult,19,637,3.0
+Otolaryngology (ENT),St. Vincent's University Hospital,Adult,357,1706,20.9
+Otolaryngology (ENT),Tallaght University Hospital,Adult,21,2146,1.0
 Otolaryngology (ENT),University Hospital Kerry,Adult,111,644,17.2
 Otolaryngology (ENT),University Hospital Kerry,Child,69,201,34.3
-Otolaryngology (ENT),University Hospital Limerick,Adult,384,2327,16.5
-Otolaryngology (ENT),University Hospital Limerick,Child,2,613,0.3
-Otolaryngology (ENT),University Hospital Waterford,Adult,512,5381,9.5
-Otolaryngology (ENT),University Hospital Waterford,Child,153,1855,8.2
-Paed Cardiology,Children's Health Ireland,Child,172,3360,5.1
+Otolaryngology (ENT),University Hospital Limerick,Adult,43,1590,2.7
+Otolaryngology (ENT),University Hospital Limerick,Child,0,541,0.0
+Otolaryngology (ENT),University Hospital Waterford,Adult,317,4796,6.6
+Otolaryngology (ENT),University Hospital Waterford,Child,106,1617,6.6
+Paed Cardiology,Children's Health Ireland,Child,171,3137,5.5
 Paed Cardiology,Cork University Hospital,Adult,8,27,29.6
 Paed Cardiology,Cork University Hospital,Child,89,683,13.0
 Paed Cardiology,University Hospital Limerick,Adult,28,34,82.4
@@ -546,29 +490,29 @@ Paed Haematology,Children's Health Ireland,Child,0,351,0.0
 Paed Haematology,Cork University Hospital,Child,0,30,0.0
 Paed Metabolic Medicine,Children's Health Ireland,Child,0,23,0.0
 Paed Nephrology,Children's Health Ireland,Child,47,426,11.0
-Paed Orthopaedic,Children's Health Ireland,Child,999,3873,25.8
+Paed Orthopaedic,Children's Health Ireland,Child,906,3424,26.5
 Paed Orthopaedic,Our Lady of Lourdes Hospital Drogheda,Child,0,95,0.0
 Paediatric Dermatology,Children's Health Ireland,Child,2499,6188,40.4
 Paediatric Dermatology,Cork University Hospital,Child,0,261,0.0
 Paediatric Dermatology,Our Lady of Lourdes Hospital Drogheda,Adult,4,78,5.1
 Paediatric Dermatology,Our Lady of Lourdes Hospital Drogheda,Child,0,582,0.0
 Paediatric ENT,Cavan General Hospital,Child,2,395,0.5
-Paediatric ENT,Children's Health Ireland,Child,579,4101,14.1
+Paediatric ENT,Children's Health Ireland,Child,545,3639,15.0
 Paediatric ENT,Our Lady of Lourdes Hospital Drogheda,Child,8,270,3.0
 Paediatric Infectious Diseases,Children's Health Ireland,Child,1,58,1.7
 Paediatric Neurology,Children's Health Ireland,Child,177,1249,14.2
 Paediatric Neurology,Cork University Hospital,Child,22,308,7.1
 Paediatric Neurology,University Hospital Limerick,Child,1,120,0.8
 Paediatric Neurosurgery,Children's Health Ireland,Child,0,33,0.0
-Paediatric Respiratory Medicine,Children's Health Ireland,Child,567,2549,22.2
+Paediatric Respiratory Medicine,Children's Health Ireland,Child,134,982,13.6
 Paediatric Respiratory Medicine,Cork University Hospital,Child,0,328,0.0
 Paediatric Respiratory Medicine,Midland Regional Hospital Portlaoise,Child,72,161,44.7
-Paediatric Surgery,Children's Health Ireland,Child,19,1414,1.3
-Paediatric Surgery,Our Lady of Lourdes Hospital Drogheda,Child,38,256,14.8
-Paediatric Surgery,University Hospital Limerick,Child,0,102,0.0
-Paediatric Urology,Children's Health Ireland,Child,342,1781,19.2
+Paediatric Surgery,Children's Health Ireland,Child,10,964,1.0
+Paediatric Surgery,Our Lady of Lourdes Hospital Drogheda,Child,30,220,13.6
+Paediatric Surgery,University Hospital Limerick,Child,0,80,0.0
+Paediatric Urology,Children's Health Ireland,Child,274,1493,18.4
 Paediatrics,Cavan General Hospital,Child,0,219,0.0
-Paediatrics,Children's Health Ireland,Child,48,4849,1.0
+Paediatrics,Children's Health Ireland,Child,37,4697,0.8
 Paediatrics,Cork University Hospital,Child,0,1565,0.0
 Paediatrics,Galway University Hospitals,Adult,0,27,0.0
 Paediatrics,Galway University Hospitals,Child,17,1871,0.9
@@ -589,76 +533,73 @@ Paediatrics,University Hospital Limerick,Adult,9,70,12.9
 Paediatrics,University Hospital Limerick,Child,160,1977,8.1
 Paediatrics,University Hospital Waterford,Child,4,590,0.7
 Paediatrics,Wexford General Hospital,Child,0,1094,0.0
-Pain Relief,Beaumont Hospital,Adult,1081,3089,35.0
+Pain Relief,Beaumont Hospital,Adult,1018,2788,36.5
 Pain Relief,Children's Health Ireland,Child,0,63,0.0
-Pain Relief,Croom Orthopaedic Hospital,Adult,261,301,86.7
-Pain Relief,Galway University Hospitals,Adult,103,2252,4.6
+Pain Relief,Galway University Hospitals,Adult,4,607,0.7
 Pain Relief,Letterkenny University Hospital,Adult,8,70,11.4
-Pain Relief,Mater Misericordiae University Hospital,Adult,422,3093,13.6
-Pain Relief,Mercy University Hospital,Adult,439,1153,38.1
+Pain Relief,Mater Misericordiae University Hospital,Adult,316,1893,16.7
+Pain Relief,Mercy University Hospital,Adult,432,1011,42.7
 Pain Relief,Naas General Hospital,Adult,389,565,68.8
-Pain Relief,Portiuncula University Hospital,Adult,78,410,19.0
-Pain Relief,Sligo University Hospital,Adult,40,846,4.7
-Pain Relief,South Infirmary Victoria University Hospital,Adult,1184,5545,21.4
-Pain Relief,St. Columcille's Hospital,Adult,79,419,18.9
-Pain Relief,St. James's Hospital,Adult,73,1320,5.5
-Pain Relief,St. John's Hospital Limerick,Adult,88,1305,6.7
-Pain Relief,St. Vincent's University Hospital,Adult,894,2279,39.2
+Pain Relief,Portiuncula University Hospital,Adult,45,307,14.7
+Pain Relief,Sligo University Hospital,Adult,40,748,5.3
+Pain Relief,South Infirmary Victoria University Hospital,Adult,708,3250,21.8
+Pain Relief,St. Columcille's Hospital,Adult,75,293,25.6
+Pain Relief,St. James's Hospital,Adult,73,1103,6.6
+Pain Relief,St. John's Hospital Limerick,Adult,87,957,9.1
+Pain Relief,St. Vincent's University Hospital,Adult,763,1473,51.8
 Pain Relief,Tallaght University Hospital,Adult,1046,2212,47.3
 Pain Relief,University Hospital Limerick,Adult,0,814,0.0
-Pain Relief,University Hospital Waterford,Adult,207,1932,10.7
-Plastic Surgery,Beaumont Hospital,Adult,1092,6152,17.8
-Plastic Surgery,Children's Health Ireland,Child,23,1134,2.0
-Plastic Surgery,Connolly Hospital Blanchardstown,Adult,0,265,0.0
-Plastic Surgery,Cork University Hospital,Adult,424,1756,24.1
-Plastic Surgery,Cork University Hospital,Child,48,239,20.1
-Plastic Surgery,Galway University Hospitals,Adult,534,3161,16.9
-Plastic Surgery,Galway University Hospitals,Child,41,229,17.9
-Plastic Surgery,Mater Misericordiae University Hospital,Adult,1058,2492,42.5
+Pain Relief,University Hospital Waterford,Adult,196,1624,12.1
+Plastic Surgery,Beaumont Hospital,Adult,307,3346,9.2
+Plastic Surgery,Children's Health Ireland,Child,4,790,0.5
+Plastic Surgery,Connolly Hospital Blanchardstown,Adult,0,97,0.0
+Plastic Surgery,Cork University Hospital,Adult,285,1387,20.5
+Plastic Surgery,Cork University Hospital,Child,29,193,15.0
+Plastic Surgery,Galway University Hospitals,Adult,16,1681,1.0
+Plastic Surgery,Galway University Hospitals,Child,2,105,1.9
+Plastic Surgery,Mater Misericordiae University Hospital,Adult,830,1873,44.3
 Plastic Surgery,Midland Regional Hospital Mullingar,Adult,0,22,0.0
 Plastic Surgery,Our Lady of Lourdes Hospital Drogheda,Adult,41,597,6.9
-Plastic Surgery,Roscommon University Hospital,Adult,103,2989,3.4
-Plastic Surgery,South Infirmary Victoria University Hospital,Adult,1448,3270,44.3
+Plastic Surgery,Roscommon University Hospital,Adult,2,2626,0.1
+Plastic Surgery,South Infirmary Victoria University Hospital,Adult,1338,2956,45.3
 Plastic Surgery,South Infirmary Victoria University Hospital,Child,70,126,55.6
-Plastic Surgery,St. James's Hospital,Adult,172,1803,9.5
-Plastic Surgery,St. Michael's Hospital,Adult,2,84,2.4
-Plastic Surgery,St. Vincent's University Hospital,Adult,199,2711,7.3
-Plastic Surgery,Tallaght University Hospital,Adult,0,96,0.0
+Plastic Surgery,St. James's Hospital,Adult,77,941,8.2
+Plastic Surgery,St. Michael's Hospital,Adult,0,26,0.0
+Plastic Surgery,St. Vincent's University Hospital,Adult,115,1630,7.1
+Plastic Surgery,Tallaght University Hospital,Adult,0,60,0.0
 Plastic Surgery,University Hospital Kerry,Adult,0,50,0.0
 Psychiatry,Beaumont Hospital,Adult,0,31,0.0
 Psychiatry,Cork University Hospital,Adult,0,31,0.0
 Psychiatry,Mater Misericordiae University Hospital,Adult,13,175,7.4
 Psychiatry,St. James's Hospital,Adult,0,204,0.0
 Radiology,Mater Misericordiae University Hospital,Adult,2,22,9.1
-Radiology,Midland Regional Hospital Tullamore,Adult,0,20,0.0
-Radiology,National Orthopaedic Hospital Cappagh,Adult,1,98,1.0
 Radiotherapy,St. Vincent's University Hospital,Adult,0,26,0.0
-Respiratory Medicine,Beaumont Hospital,Adult,75,2222,3.4
+Respiratory Medicine,Beaumont Hospital,Adult,75,2102,3.6
 Respiratory Medicine,Cavan General Hospital,Adult,0,655,0.0
-Respiratory Medicine,Connolly Hospital Blanchardstown,Adult,280,1805,15.5
+Respiratory Medicine,Connolly Hospital Blanchardstown,Adult,280,1525,18.4
 Respiratory Medicine,Cork University Hospital,Adult,0,445,0.0
-Respiratory Medicine,Galway University Hospitals,Adult,1975,3999,49.4
+Respiratory Medicine,Galway University Hospitals,Adult,1971,3896,50.6
 Respiratory Medicine,Letterkenny University Hospital,Adult,1,1453,0.1
 Respiratory Medicine,Mallow General Hospital,Adult,3,585,0.5
-Respiratory Medicine,Mater Misericordiae University Hospital,Adult,401,1722,23.3
+Respiratory Medicine,Mater Misericordiae University Hospital,Adult,397,1671,23.8
 Respiratory Medicine,Mayo University Hospital,Adult,70,870,8.0
-Respiratory Medicine,Mercy University Hospital,Adult,96,776,12.4
+Respiratory Medicine,Mercy University Hospital,Adult,94,691,13.6
 Respiratory Medicine,Midland Regional Hospital Mullingar,Adult,0,32,0.0
-Respiratory Medicine,Midland Regional Hospital Portlaoise,Adult,112,741,15.1
+Respiratory Medicine,Midland Regional Hospital Portlaoise,Adult,112,713,15.7
 Respiratory Medicine,Midland Regional Hospital Tullamore,Adult,26,253,10.3
 Respiratory Medicine,Naas General Hospital,Adult,9,171,5.3
 Respiratory Medicine,Our Lady of Lourdes Hospital Drogheda,Adult,251,1103,22.8
 Respiratory Medicine,Our Lady's Hospital Navan,Adult,1,420,0.2
 Respiratory Medicine,Portiuncula University Hospital,Adult,102,535,19.1
 Respiratory Medicine,Sligo University Hospital,Adult,33,681,4.8
-Respiratory Medicine,St. James's Hospital,Adult,272,1552,17.5
+Respiratory Medicine,St. James's Hospital,Adult,265,1516,17.5
 Respiratory Medicine,St. Luke's General Hospital Kilkenny,Adult,492,1210,40.7
 Respiratory Medicine,St. Michael's Hospital,Adult,0,22,0.0
-Respiratory Medicine,St. Vincent's University Hospital,Adult,1290,3430,37.6
-Respiratory Medicine,Tallaght University Hospital,Adult,0,544,0.0
+Respiratory Medicine,St. Vincent's University Hospital,Adult,1290,3373,38.2
+Respiratory Medicine,Tallaght University Hospital,Adult,0,519,0.0
 Respiratory Medicine,Tipperary University Hospital,Adult,54,452,11.9
 Respiratory Medicine,University Hospital Kerry,Adult,17,572,3.0
-Respiratory Medicine,University Hospital Limerick,Adult,258,2625,9.8
+Respiratory Medicine,University Hospital Limerick,Adult,257,2335,11.0
 Respiratory Medicine,University Hospital Waterford,Adult,232,1364,17.0
 Rheumatology,Beaumont Hospital,Adult,0,835,0.0
 Rheumatology,Children's Health Ireland,Child,221,684,32.3
@@ -677,133 +618,118 @@ Rheumatology,Sligo University Hospital,Adult,324,1696,19.1
 Rheumatology,South Infirmary Victoria University Hospital,Adult,46,489,9.4
 Rheumatology,St. James's Hospital,Adult,93,479,19.4
 Rheumatology,St. Vincent's University Hospital,Adult,585,1808,32.4
-Rheumatology,Tallaght University Hospital,Adult,55,853,6.4
+Rheumatology,Tallaght University Hospital,Adult,55,826,6.7
 Rheumatology,Tipperary University Hospital,Adult,182,182,100.0
 Rheumatology,University Hospital Kerry,Adult,0,144,0.0
 Rheumatology,University Hospital Limerick,Adult,1,859,0.1
 Rheumatology,University Hospital Waterford,Adult,666,2033,32.8
-Small Volume Specialties,Bantry General Hospital,Adult,0,15,0.0
-Small Volume Specialties,Beaumont Hospital,Adult,10,23,43.5
-Small Volume Specialties,Beaumont Hospital,Child,3,50,6.0
-Small Volume Specialties,Cavan General Hospital,Adult,1,39,2.6
+Small Volume Specialties,Bantry General Hospital,Adult,0,14,0.0
+Small Volume Specialties,Beaumont Hospital,Adult,0,2,0.0
+Small Volume Specialties,Beaumont Hospital,Child,3,38,7.9
+Small Volume Specialties,Cavan General Hospital,Adult,1,34,2.9
 Small Volume Specialties,Cavan General Hospital,Child,0,40,0.0
-Small Volume Specialties,Children's Health Ireland,Child,1,73,1.4
-Small Volume Specialties,Connolly Hospital Blanchardstown,Adult,2,18,11.1
-Small Volume Specialties,Coombe Women and Infants University Hospital,Adult,0,15,0.0
+Small Volume Specialties,Children's Health Ireland,Child,0,3,0.0
 Small Volume Specialties,Coombe Women and Infants University Hospital,Child,0,1,0.0
-Small Volume Specialties,Cork University Hospital,Adult,1,61,1.6
-Small Volume Specialties,Cork University Hospital,Child,3,75,4.0
-Small Volume Specialties,Cork University Maternity Hospital,Adult,0,12,0.0
-Small Volume Specialties,Cork University Maternity Hospital,Child,0,2,0.0
-Small Volume Specialties,Croom Orthopaedic Hospital,Child,0,4,0.0
-Small Volume Specialties,Ennis Hospital,Adult,0,13,0.0
-Small Volume Specialties,Ennis Hospital,Child,1,14,7.1
-Small Volume Specialties,Galway University Hospitals,Adult,2,4,50.0
-Small Volume Specialties,Galway University Hospitals,Child,6,80,7.5
-Small Volume Specialties,Letterkenny University Hospital,Adult,0,10,0.0
-Small Volume Specialties,Letterkenny University Hospital,Child,8,80,10.0
-Small Volume Specialties,Louth County Hospital,Adult,0,21,0.0
-Small Volume Specialties,Mallow General Hospital,Adult,0,18,0.0
+Small Volume Specialties,Cork University Hospital,Adult,1,48,2.1
+Small Volume Specialties,Cork University Hospital,Child,1,57,1.8
+Small Volume Specialties,Cork University Maternity Hospital,Adult,0,10,0.0
+Small Volume Specialties,Croom Orthopaedic Hospital,Child,0,1,0.0
+Small Volume Specialties,Ennis Hospital,Adult,0,3,0.0
+Small Volume Specialties,Ennis Hospital,Child,1,12,8.3
+Small Volume Specialties,Galway University Hospitals,Adult,2,2,100.0
+Small Volume Specialties,Galway University Hospitals,Child,4,53,7.5
+Small Volume Specialties,Letterkenny University Hospital,Adult,0,5,0.0
+Small Volume Specialties,Letterkenny University Hospital,Child,8,46,17.4
+Small Volume Specialties,Louth County Hospital,Adult,0,12,0.0
 Small Volume Specialties,Mallow General Hospital,Child,0,7,0.0
-Small Volume Specialties,Mater Misericordiae University Hospital,Adult,14,75,18.7
-Small Volume Specialties,Mayo University Hospital,Adult,0,8,0.0
-Small Volume Specialties,Mayo University Hospital,Child,2,43,4.7
-Small Volume Specialties,Mercy University Hospital,Adult,0,29,0.0
+Small Volume Specialties,Mater Misericordiae University Hospital,Adult,4,28,14.3
+Small Volume Specialties,Mayo University Hospital,Adult,0,4,0.0
+Small Volume Specialties,Mayo University Hospital,Child,2,37,5.4
+Small Volume Specialties,Mercy University Hospital,Adult,0,17,0.0
 Small Volume Specialties,Mercy University Hospital,Child,0,1,0.0
-Small Volume Specialties,Midland Regional Hospital Mullingar,Adult,2,20,10.0
-Small Volume Specialties,Midland Regional Hospital Mullingar,Child,0,27,0.0
-Small Volume Specialties,Midland Regional Hospital Portlaoise,Adult,4,25,16.0
-Small Volume Specialties,Midland Regional Hospital Portlaoise,Child,1,22,4.5
-Small Volume Specialties,Midland Regional Hospital Tullamore,Adult,0,18,0.0
-Small Volume Specialties,Midland Regional Hospital Tullamore,Child,0,19,0.0
-Small Volume Specialties,Naas General Hospital,Adult,0,29,0.0
+Small Volume Specialties,Midland Regional Hospital Mullingar,Adult,0,3,0.0
+Small Volume Specialties,Midland Regional Hospital Mullingar,Child,0,6,0.0
+Small Volume Specialties,Midland Regional Hospital Portlaoise,Adult,4,19,21.1
+Small Volume Specialties,Midland Regional Hospital Portlaoise,Child,1,13,7.7
+Small Volume Specialties,Midland Regional Hospital Tullamore,Adult,0,6,0.0
+Small Volume Specialties,Midland Regional Hospital Tullamore,Child,0,10,0.0
+Small Volume Specialties,Naas General Hospital,Adult,0,12,0.0
 Small Volume Specialties,Naas General Hospital,Child,0,3,0.0
-Small Volume Specialties,National Orthopaedic Hospital Cappagh,Adult,0,12,0.0
-Small Volume Specialties,National Orthopaedic Hospital Cappagh,Child,0,1,0.0
+Small Volume Specialties,National Orthopaedic Hospital Cappagh,Adult,0,11,0.0
 Small Volume Specialties,Nenagh Hospital,Adult,0,21,0.0
-Small Volume Specialties,Nenagh Hospital,Child,0,23,0.0
-Small Volume Specialties,Our Lady of Lourdes Hospital Drogheda,Adult,4,88,4.5
-Small Volume Specialties,Our Lady of Lourdes Hospital Drogheda,Child,3,59,5.1
-Small Volume Specialties,Our Lady's Hospital Navan,Adult,0,63,0.0
+Small Volume Specialties,Nenagh Hospital,Child,0,18,0.0
+Small Volume Specialties,Our Lady of Lourdes Hospital Drogheda,Adult,4,69,5.8
+Small Volume Specialties,Our Lady of Lourdes Hospital Drogheda,Child,3,40,7.5
+Small Volume Specialties,Our Lady's Hospital Navan,Adult,0,21,0.0
 Small Volume Specialties,Our Lady's Hospital Navan,Child,0,2,0.0
-Small Volume Specialties,Portiuncula University Hospital,Adult,0,53,0.0
-Small Volume Specialties,Portiuncula University Hospital,Child,3,43,7.0
-Small Volume Specialties,Roscommon University Hospital,Adult,0,2,0.0
-Small Volume Specialties,Roscommon University Hospital,Child,0,2,0.0
-Small Volume Specialties,Rotunda Hospital,Child,0,5,0.0
-Small Volume Specialties,Sligo University Hospital,Adult,0,21,0.0
-Small Volume Specialties,Sligo University Hospital,Child,4,65,6.2
-Small Volume Specialties,South Infirmary Victoria University Hospital,Adult,0,12,0.0
-Small Volume Specialties,South Infirmary Victoria University Hospital,Child,4,77,5.2
+Small Volume Specialties,Portiuncula University Hospital,Adult,0,25,0.0
+Small Volume Specialties,Portiuncula University Hospital,Child,1,13,7.7
+Small Volume Specialties,Sligo University Hospital,Adult,0,6,0.0
+Small Volume Specialties,Sligo University Hospital,Child,0,45,0.0
+Small Volume Specialties,South Infirmary Victoria University Hospital,Adult,0,4,0.0
+Small Volume Specialties,South Infirmary Victoria University Hospital,Child,2,8,25.0
 Small Volume Specialties,St. Columcille's Hospital,Adult,0,1,0.0
-Small Volume Specialties,St. James's Hospital,Adult,0,75,0.0
-Small Volume Specialties,St. John's Hospital Limerick,Adult,0,10,0.0
+Small Volume Specialties,St. James's Hospital,Adult,0,18,0.0
 Small Volume Specialties,St. John's Hospital Limerick,Child,0,1,0.0
-Small Volume Specialties,St. Luke's General Hospital Kilkenny,Adult,1,23,4.3
-Small Volume Specialties,St. Luke's General Hospital Kilkenny,Child,0,23,0.0
-Small Volume Specialties,St. Michael's Hospital,Adult,0,9,0.0
-Small Volume Specialties,St. Vincent's University Hospital,Adult,1,71,1.4
-Small Volume Specialties,Tallaght University Hospital,Adult,0,71,0.0
-Small Volume Specialties,Tallaght University Hospital,Child,0,12,0.0
-Small Volume Specialties,Tipperary University Hospital,Adult,0,27,0.0
-Small Volume Specialties,Tipperary University Hospital,Child,1,22,4.5
-Small Volume Specialties,University Hospital Kerry,Adult,3,37,8.1
-Small Volume Specialties,University Hospital Kerry,Child,0,35,0.0
-Small Volume Specialties,University Hospital Limerick,Adult,3,27,11.1
-Small Volume Specialties,University Hospital Limerick,Child,0,76,0.0
-Small Volume Specialties,University Hospital Waterford,Adult,1,25,4.0
-Small Volume Specialties,University Hospital Waterford,Child,6,75,8.0
-Small Volume Specialties,Wexford General Hospital,Adult,0,32,0.0
-Small Volume Specialties,Wexford General Hospital,Child,0,35,0.0
-Urology,Beaumont Hospital,Adult,573,5904,9.7
-Urology,Connolly Hospital Blanchardstown,Adult,177,740,23.9
-Urology,Cork University Hospital,Adult,97,2112,4.6
-Urology,Cork University Hospital,Child,234,1092,21.4
-Urology,Ennis Hospital,Adult,88,667,13.2
-Urology,Galway University Hospitals,Adult,640,3712,17.2
-Urology,Galway University Hospitals,Child,77,540,14.3
-Urology,Letterkenny University Hospital,Adult,12,1287,0.9
+Small Volume Specialties,St. Luke's General Hospital Kilkenny,Adult,1,21,4.8
+Small Volume Specialties,St. Luke's General Hospital Kilkenny,Child,0,20,0.0
+Small Volume Specialties,St. Michael's Hospital,Adult,0,7,0.0
+Small Volume Specialties,St. Vincent's University Hospital,Adult,0,16,0.0
+Small Volume Specialties,Tallaght University Hospital,Adult,0,60,0.0
+Small Volume Specialties,Tallaght University Hospital,Child,0,11,0.0
+Small Volume Specialties,Tipperary University Hospital,Adult,0,22,0.0
+Small Volume Specialties,Tipperary University Hospital,Child,1,7,14.3
+Small Volume Specialties,University Hospital Kerry,Adult,0,2,0.0
+Small Volume Specialties,University Hospital Kerry,Child,0,26,0.0
+Small Volume Specialties,University Hospital Limerick,Adult,0,3,0.0
+Small Volume Specialties,University Hospital Limerick,Child,0,48,0.0
+Small Volume Specialties,University Hospital Waterford,Adult,1,22,4.5
+Small Volume Specialties,University Hospital Waterford,Child,6,59,10.2
+Small Volume Specialties,Wexford General Hospital,Adult,0,31,0.0
+Small Volume Specialties,Wexford General Hospital,Child,0,19,0.0
+Urology,Beaumont Hospital,Adult,297,4373,6.8
+Urology,Connolly Hospital Blanchardstown,Adult,141,298,47.3
+Urology,Cork University Hospital,Adult,93,1724,5.4
+Urology,Cork University Hospital,Child,214,905,23.6
+Urology,Galway University Hospitals,Adult,307,2404,12.8
+Urology,Galway University Hospitals,Child,75,476,15.8
+Urology,Letterkenny University Hospital,Adult,0,569,0.0
 Urology,Letterkenny University Hospital,Child,0,65,0.0
-Urology,Louth County Hospital,Adult,0,130,0.0
-Urology,Mallow General Hospital,Adult,6,229,2.6
-Urology,Mater Misericordiae University Hospital,Adult,734,3491,21.0
+Urology,Mallow General Hospital,Adult,6,171,3.5
+Urology,Mater Misericordiae University Hospital,Adult,510,2651,19.2
 Urology,Mayo University Hospital,Adult,1,162,0.6
-Urology,Mercy University Hospital,Adult,271,1397,19.4
-Urology,Midland Regional Hospital Portlaoise,Adult,152,1038,14.6
+Urology,Mercy University Hospital,Adult,231,951,24.3
+Urology,Midland Regional Hospital Portlaoise,Adult,142,921,15.4
 Urology,Midland Regional Hospital Portlaoise,Child,36,88,40.9
-Urology,Nenagh Hospital,Adult,44,676,6.5
-Urology,Our Lady of Lourdes Hospital Drogheda,Adult,136,1571,8.7
-Urology,Portiuncula University Hospital,Adult,19,315,6.0
-Urology,Roscommon University Hospital,Adult,16,600,2.7
-Urology,Sligo University Hospital,Adult,71,1130,6.3
-Urology,Sligo University Hospital,Child,5,205,2.4
-Urology,St. Columcille's Hospital,Adult,115,509,22.6
-Urology,St. James's Hospital,Adult,109,1525,7.1
-Urology,St. John's Hospital Limerick,Adult,22,234,9.4
-Urology,St. Michael's Hospital,Adult,17,453,3.8
-Urology,St. Vincent's University Hospital,Adult,457,2185,20.9
-Urology,Tallaght University Hospital,Adult,69,2293,3.0
-Urology,University Hospital Kerry,Adult,69,606,11.4
+Urology,Our Lady of Lourdes Hospital Drogheda,Adult,134,1276,10.5
+Urology,Portiuncula University Hospital,Adult,17,233,7.3
+Urology,Roscommon University Hospital,Adult,16,381,4.2
+Urology,Sligo University Hospital,Adult,5,678,0.7
+Urology,Sligo University Hospital,Child,2,146,1.4
+Urology,St. Columcille's Hospital,Adult,115,368,31.2
+Urology,St. James's Hospital,Adult,33,1215,2.7
+Urology,St. John's Hospital Limerick,Adult,0,31,0.0
+Urology,St. Michael's Hospital,Adult,8,222,3.6
+Urology,St. Vincent's University Hospital,Adult,412,1683,24.5
+Urology,Tallaght University Hospital,Adult,56,1933,2.9
+Urology,University Hospital Kerry,Adult,69,471,14.6
 Urology,University Hospital Kerry,Child,7,101,6.9
-Urology,University Hospital Limerick,Adult,6,1520,0.4
-Urology,University Hospital Limerick,Child,8,255,3.1
-Urology,University Hospital Waterford,Adult,619,3346,18.5
-Urology,University Hospital Waterford,Child,17,131,13.0
-Vascular Surgery,Beaumont Hospital,Adult,118,2466,4.8
-Vascular Surgery,Cork University Hospital,Adult,326,1655,19.7
-Vascular Surgery,Ennis Hospital,Adult,0,23,0.0
-Vascular Surgery,Galway University Hospitals,Adult,369,2632,14.0
+Urology,University Hospital Limerick,Adult,1,1416,0.1
+Urology,University Hospital Limerick,Child,0,191,0.0
+Urology,University Hospital Waterford,Adult,438,2291,19.1
+Urology,University Hospital Waterford,Child,13,107,12.1
+Vascular Surgery,Beaumont Hospital,Adult,23,2094,1.1
+Vascular Surgery,Cork University Hospital,Adult,326,1625,20.1
+Vascular Surgery,Galway University Hospitals,Adult,6,1708,0.4
 Vascular Surgery,Letterkenny University Hospital,Adult,0,27,0.0
-Vascular Surgery,Mater Misericordiae University Hospital,Adult,78,917,8.5
-Vascular Surgery,Mercy University Hospital,Adult,26,696,3.7
+Vascular Surgery,Mater Misericordiae University Hospital,Adult,0,668,0.0
+Vascular Surgery,Mercy University Hospital,Adult,22,638,3.4
 Vascular Surgery,Midland Regional Hospital Tullamore,Adult,60,1195,5.0
-Vascular Surgery,Nenagh Hospital,Adult,0,50,0.0
-Vascular Surgery,Our Lady's Hospital Navan,Adult,0,27,0.0
-Vascular Surgery,Roscommon University Hospital,Adult,3,161,1.9
-Vascular Surgery,St. Columcille's Hospital,Adult,137,447,30.6
-Vascular Surgery,St. James's Hospital,Adult,68,1076,6.3
-Vascular Surgery,St. Michael's Hospital,Adult,173,629,27.5
-Vascular Surgery,St. Vincent's University Hospital,Adult,312,1216,25.7
-Vascular Surgery,Tallaght University Hospital,Adult,77,1336,5.8
-Vascular Surgery,University Hospital Limerick,Adult,208,2051,10.1
-Vascular Surgery,University Hospital Waterford,Adult,132,1550,8.5
+Vascular Surgery,Roscommon University Hospital,Adult,2,118,1.7
+Vascular Surgery,St. Columcille's Hospital,Adult,135,371,36.4
+Vascular Surgery,St. James's Hospital,Adult,60,890,6.7
+Vascular Surgery,St. Michael's Hospital,Adult,167,569,29.3
+Vascular Surgery,St. Vincent's University Hospital,Adult,311,1184,26.3
+Vascular Surgery,Tallaght University Hospital,Adult,71,1093,6.5
+Vascular Surgery,University Hospital Limerick,Adult,200,2023,9.9
+Vascular Surgery,University Hospital Waterford,Adult,6,1138,0.5
