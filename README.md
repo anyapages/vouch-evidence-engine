@@ -1,5 +1,15 @@
 # Vouch Evidence Engine
 
+[![verify](https://github.com/anyapages/vouch-evidence-engine/actions/workflows/verify.yml/badge.svg)](https://github.com/anyapages/vouch-evidence-engine/actions/workflows/verify.yml)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![data: NTPF](https://img.shields.io/badge/data-NTPF%20open%20data-1A3FAE)](https://www.ntpf.ie/home/outpatient.htm)
+[![data: DoH NI](https://img.shields.io/badge/data-Dept%20of%20Health%20NI-1A3FAE)](https://www.health-ni.gov.uk/publications/northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026)
+[![licence: MIT](https://img.shields.io/badge/licence-MIT-555)](LICENSE)
+
+The first badge is the only one that means anything: it is green because the
+figures in `data/` re-derive from the published sources on every push, and it
+goes red when one of them stops being true.
+
 > **This repository is Vouch's public evidence layer.** It reproduces the
 > published waiting-list calculations the Vouch demo shows. It does **not**
 > contain the Vouch application, its model prompts, its referral-reading or
