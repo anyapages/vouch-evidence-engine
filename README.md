@@ -4,7 +4,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![data: NTPF](https://img.shields.io/badge/data-NTPF%20open%20data-1A3FAE)](https://www.ntpf.ie/home/outpatient.htm)
 [![data: DoH NI](https://img.shields.io/badge/data-Dept%20of%20Health%20NI-1A3FAE)](https://www.health-ni.gov.uk/publications/northern-ireland-waiting-time-statistics-outpatient-waiting-times-june-2026)
-[![licence: MIT](https://img.shields.io/badge/licence-MIT-555)](LICENSE)
+[![licence: Apache-2.0](https://img.shields.io/badge/licence-Apache--2.0-555)](LICENSE)
 
 The first badge is the only one that means anything: it is green because the
 figures in `data/` re-derive from the published sources on every push, and it
