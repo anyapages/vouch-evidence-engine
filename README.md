@@ -96,11 +96,10 @@ That page is worth reading alongside this one, because it is the same discipline
 applied to the models rather than to the data: 153 invented letters, five
 samples from every reader on every letter, held-out split only, and both a
 lenient and a strict score so the scoring rule cannot do the arguing. Three
-readers were tested and two serve: `gpt-4.1-mini`, `gemini-3.6-flash`, and
-NVIDIA Nemotron 3 Super served by NVIDIA NIM as an independent third opinion,
-brought in to check whether the disagreements were real or an artefact of one
-model family. The third has never answered a clinical request and is not in the
-serving path.
+readers from different model families were tested and two serve: two hosted
+models, and an open-weights model brought in as an independent third opinion, to
+check whether the disagreements were real or an artefact of one model family.
+The third has never answered a clinical request and is not in the serving path.
 
 No corpus, prompts or model code are in this repository, and none are planned
 here. The figures are what this repository is for.
